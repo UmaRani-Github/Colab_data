@@ -1,0 +1,1001 @@
+Loan_ID,Industry_Type,Revenue (in $M),Debt-to-Equity Ratio,Credit_Score,Green_Energy_Investment (in $M),Energy_Efficiency_Score,Environmental_Certification,Loan_Amount (in $M),ROI (%),Project_Completion_Time (in months),Operational_Costs (in $M),Risk_Level,Energy_Capacity (MW),Approval_Status,Project_Impact,Risk_Assessment,Governance_Structure
+LOAN-0001,Agriculture,254.72,2.59,342,179.35,96,Yes,63.62,21.0,12,27.11,High,207.67,Rejected,High,Severe,Community-driven
+LOAN-0002,Agriculture,220.47,2.81,761,168.86,14,Yes,6.01,16.86,16,23.05,Low,212.71,Rejected,Low,Severe,Decentralized
+LOAN-0003,Agriculture,36.34,2.51,701,59.15,59,Yes,81.27,23.16,9,17.65,High,44.43,Rejected,Medium,Severe,Centralized
+LOAN-0004,Technology,70.76,2.88,720,134.09,33,Yes,33.62,-1.34,12,30.75,Low,113.56,Rejected,Low,Severe,Centralized
+LOAN-0005,Agriculture,482.37,1.92,718,85.67,3,No,14.37,18.39,10,48.87,Medium,444.5,Rejected,Low,Moderate,Centralized
+LOAN-0006,Technology,124.4,0.17,548,169.0,83,Yes,6.6,-1.31,20,22.57,High,353.87,Rejected,Low,Severe,Community-driven
+LOAN-0007,Renewable Energy,70.54,1.69,704,20.45,32,No,70.66,20.18,28,30.22,High,494.07,Rejected,Low,Severe,Community-driven
+LOAN-0008,Healthcare,47.22,1.73,394,181.7,37,No,74.78,-2.95,7,14.9,Low,38.95,Rejected,Low,Severe,Community-driven
+LOAN-0009,Renewable Energy,296.17,1.41,767,74.65,73,No,65.29,14.75,24,45.56,Medium,360.02,Rejected,High,Moderate,Decentralized
+LOAN-0010,Healthcare,216.52,0.91,658,150.58,1,No,59.88,5.29,27,8.04,Low,268.07,Rejected,Low,Minimal,Decentralized
+LOAN-0011,Renewable Energy,218.32,1.44,336,56.86,28,No,46.36,22.34,28,33.76,Medium,291.73,Rejected,Low,Moderate,Decentralized
+LOAN-0012,Healthcare,72.27,0.71,579,110.87,100,Yes,53.45,-4.38,8,12.91,Low,254.38,Rejected,Low,Minimal,Community-driven
+LOAN-0013,Healthcare,439.41,2.19,588,192.28,53,Yes,19.08,6.72,15,1.75,Medium,428.74,Rejected,Medium,Moderate,Community-driven
+LOAN-0014,Agriculture,372.11,0.36,628,120.16,71,No,55.07,3.87,34,22.5,High,135.5,Approved,Low,Severe,Community-driven
+LOAN-0015,Healthcare,482.58,0.34,364,15.69,75,No,76.34,2.41,29,16.99,High,13.08,Rejected,Low,Severe,Decentralized
+LOAN-0016,Agriculture,74.19,1.38,711,38.87,75,No,24.47,12.41,31,5.8,High,6.7,Rejected,High,Severe,Decentralized
+LOAN-0017,Agriculture,324.79,0.44,538,145.18,43,No,54.36,7.23,12,40.01,High,316.51,Rejected,Low,Severe,Centralized
+LOAN-0018,Technology,368.95,2.57,570,30.71,44,Yes,56.45,21.41,6,32.54,Low,374.42,Rejected,Low,Severe,Decentralized
+LOAN-0019,Construction,444.54,1.18,605,65.13,85,No,20.32,12.0,21,31.2,Medium,270.66,Rejected,High,Moderate,Centralized
+LOAN-0020,Renewable Energy,282.95,2.15,639,109.38,93,Yes,80.76,-2.53,18,12.27,Low,275.04,Rejected,Low,Severe,Decentralized
+LOAN-0021,Healthcare,283.98,1.63,481,73.41,100,Yes,83.94,10.99,8,38.0,Low,298.64,Rejected,High,Severe,Community-driven
+LOAN-0022,Renewable Energy,484.76,2.48,433,51.83,73,Yes,10.09,10.04,15,4.85,Medium,305.26,Rejected,High,Moderate,Centralized
+LOAN-0023,Agriculture,474.47,0.58,391,170.18,2,Yes,27.03,18.8,6,18.74,Medium,9.32,Rejected,Low,Moderate,Centralized
+LOAN-0024,Technology,239.19,1.61,501,141.64,36,Yes,83.62,24.68,36,31.77,Low,373.46,Rejected,Low,Severe,Community-driven
+LOAN-0025,Technology,267.72,1.95,349,3.03,72,No,17.76,3.51,29,8.58,Low,172.99,Rejected,Low,Severe,Centralized
+LOAN-0026,Agriculture,449.83,0.33,317,176.23,40,No,71.02,24.95,17,35.17,Low,198.15,Rejected,Low,Minimal,Community-driven
+LOAN-0027,Agriculture,388.33,1.31,474,139.8,64,Yes,47.87,13.6,36,11.85,High,324.63,Rejected,Medium,Severe,Community-driven
+LOAN-0028,Agriculture,288.29,2.09,782,14.84,68,Yes,6.42,1.09,33,9.19,Medium,269.26,Rejected,Low,Moderate,Community-driven
+LOAN-0029,Technology,280.54,0.73,368,187.54,60,Yes,15.21,24.1,33,47.97,High,432.7,Rejected,Medium,Severe,Centralized
+LOAN-0030,Renewable Energy,499.11,2.06,479,29.86,6,No,72.55,23.57,33,49.82,High,234.48,Rejected,Low,Severe,Centralized
+LOAN-0031,Technology,462.96,1.16,640,91.45,52,Yes,32.26,4.9,11,45.98,High,283.59,Rejected,Low,Severe,Community-driven
+LOAN-0032,Construction,304.55,2.38,300,147.84,43,Yes,13.68,5.22,19,32.12,Medium,372.07,Approved,Low,Moderate,Community-driven
+LOAN-0033,Technology,69.63,2.45,366,194.31,53,Yes,66.54,3.08,26,49.4,Medium,235.0,Rejected,Low,Moderate,Decentralized
+LOAN-0034,Construction,96.88,1.61,526,104.51,29,Yes,12.73,17.05,12,32.33,Low,68.21,Rejected,Low,Severe,Centralized
+LOAN-0035,Agriculture,181.11,2.84,639,138.45,2,No,11.64,4.26,22,42.68,Low,318.91,Rejected,Low,Severe,Decentralized
+LOAN-0036,Healthcare,12.57,0.93,455,198.54,2,No,52.93,9.44,25,16.21,Medium,433.14,Rejected,Low,Moderate,Community-driven
+LOAN-0037,Construction,88.93,0.17,623,176.91,40,Yes,93.92,13.79,13,10.69,Low,325.03,Rejected,Low,Minimal,Centralized
+LOAN-0038,Technology,271.22,1.7,366,47.2,66,No,87.77,1.38,13,4.13,Medium,60.83,Rejected,Low,Moderate,Centralized
+LOAN-0039,Technology,305.3,1.13,636,133.77,87,No,75.92,10.16,32,13.28,Medium,328.99,Approved,High,Moderate,Centralized
+LOAN-0040,Construction,146.99,0.75,809,30.22,80,No,56.32,1.15,16,10.47,Medium,473.11,Rejected,Low,Moderate,Community-driven
+LOAN-0041,Healthcare,219.44,2.68,738,43.36,84,No,65.11,23.29,14,26.21,High,169.95,Rejected,High,Severe,Centralized
+LOAN-0042,Agriculture,267.22,1.25,817,121.88,59,No,50.06,24.46,32,25.75,Low,368.58,Approved,Medium,Severe,Centralized
+LOAN-0043,Technology,70.79,1.81,473,158.01,74,Yes,87.78,-4.51,9,34.86,Low,186.66,Rejected,Low,Severe,Community-driven
+LOAN-0044,Healthcare,92.62,2.24,445,80.22,5,Yes,53.92,21.81,15,3.54,Medium,355.47,Rejected,Low,Moderate,Decentralized
+LOAN-0045,Agriculture,190.37,0.75,724,44.71,16,Yes,64.2,12.92,14,21.92,High,375.6,Rejected,Low,Severe,Centralized
+LOAN-0046,Construction,389.37,1.22,661,39.22,61,No,38.91,20.05,36,42.42,Medium,378.98,Rejected,Medium,Moderate,Community-driven
+LOAN-0047,Renewable Energy,199.55,1.95,642,153.05,88,No,29.32,18.5,22,25.88,Low,370.72,Rejected,High,Severe,Centralized
+LOAN-0048,Healthcare,434.23,1.97,646,170.41,48,No,32.44,16.39,36,45.59,Medium,48.11,Rejected,Low,Moderate,Community-driven
+LOAN-0049,Healthcare,289.75,2.78,694,13.69,92,No,38.13,-1.04,16,39.18,Medium,462.57,Rejected,Low,Moderate,Community-driven
+LOAN-0050,Healthcare,165.63,1.5,321,106.08,7,No,65.78,21.69,19,39.83,High,165.45,Rejected,Low,Severe,Decentralized
+LOAN-0051,Technology,279.45,2.89,833,97.03,29,Yes,64.86,13.16,24,17.69,Low,91.75,Rejected,Low,Severe,Centralized
+LOAN-0052,Renewable Energy,282.33,0.5,568,50.97,17,Yes,78.78,21.41,13,37.57,Medium,20.6,Rejected,Low,Moderate,Community-driven
+LOAN-0053,Agriculture,265.12,0.81,744,165.16,3,Yes,75.33,3.33,24,7.07,Low,274.12,Approved,Low,Minimal,Community-driven
+LOAN-0054,Agriculture,88.86,0.74,306,101.15,20,Yes,34.13,24.44,6,44.94,Medium,156.9,Approved,Low,Moderate,Decentralized
+LOAN-0055,Technology,160.9,2.48,652,162.32,92,Yes,9.94,24.14,16,42.13,Medium,475.07,Rejected,High,Moderate,Decentralized
+LOAN-0056,Renewable Energy,393.36,0.22,813,195.38,91,No,46.49,24.83,29,22.86,Medium,348.47,Rejected,High,Moderate,Community-driven
+LOAN-0057,Healthcare,414.71,1.26,312,82.45,56,No,40.84,11.12,19,20.32,Medium,426.97,Rejected,Medium,Moderate,Centralized
+LOAN-0058,Healthcare,325.62,1.83,498,116.86,44,Yes,38.81,-3.43,25,5.8,Medium,201.71,Rejected,Low,Moderate,Community-driven
+LOAN-0059,Renewable Energy,394.17,1.06,792,118.24,74,Yes,95.01,-2.1,10,12.04,Medium,235.65,Rejected,Low,Moderate,Decentralized
+LOAN-0060,Renewable Energy,323.28,0.53,477,102.63,36,Yes,91.96,23.36,11,35.07,Low,203.41,Rejected,Low,Minimal,Decentralized
+LOAN-0061,Technology,77.3,1.33,455,131.66,52,No,86.39,5.03,30,22.37,Medium,474.68,Rejected,Medium,Moderate,Community-driven
+LOAN-0062,Technology,300.4,0.51,560,85.71,39,Yes,81.17,9.68,19,48.94,High,262.32,Rejected,Low,Severe,Decentralized
+LOAN-0063,Healthcare,374.0,2.59,640,61.64,31,Yes,58.44,23.51,20,18.97,Medium,15.18,Approved,Low,Moderate,Centralized
+LOAN-0064,Healthcare,149.97,1.07,809,100.34,21,Yes,43.06,19.32,10,22.72,Low,95.74,Rejected,Low,Severe,Decentralized
+LOAN-0065,Agriculture,475.5,1.78,501,51.56,71,No,74.38,24.07,24,18.09,Medium,286.52,Rejected,High,Moderate,Decentralized
+LOAN-0066,Technology,291.3,2.78,431,93.49,25,Yes,57.23,-4.01,26,10.88,High,247.87,Approved,Low,Severe,Community-driven
+LOAN-0067,Technology,269.45,0.26,595,183.37,53,Yes,69.41,0.2,28,33.22,Medium,199.3,Rejected,Low,Moderate,Decentralized
+LOAN-0068,Construction,152.62,1.63,450,55.22,43,No,57.27,-1.58,24,30.49,Medium,483.33,Rejected,Low,Moderate,Decentralized
+LOAN-0069,Renewable Energy,367.36,2.76,397,35.22,73,Yes,70.21,-0.84,36,23.13,Low,454.49,Rejected,Low,Severe,Community-driven
+LOAN-0070,Renewable Energy,194.07,0.6,489,17.34,91,Yes,11.1,12.42,29,44.04,Low,49.52,Rejected,High,Minimal,Decentralized
+LOAN-0071,Technology,185.54,0.13,369,143.6,51,Yes,78.19,-2.74,9,13.1,High,462.49,Rejected,Low,Severe,Centralized
+LOAN-0072,Construction,440.68,1.99,449,186.22,21,Yes,13.19,2.1,17,27.7,Low,374.65,Rejected,Low,Severe,Community-driven
+LOAN-0073,Construction,289.94,2.52,841,119.37,13,Yes,90.39,8.98,28,24.31,Medium,377.56,Rejected,Low,Moderate,Centralized
+LOAN-0074,Technology,462.84,1.3,699,30.94,94,No,20.89,19.46,30,10.52,High,314.91,Rejected,High,Severe,Community-driven
+LOAN-0075,Healthcare,195.55,2.15,749,1.37,87,No,51.58,4.48,6,29.34,Medium,187.51,Rejected,Low,Moderate,Community-driven
+LOAN-0076,Technology,273.72,0.85,662,180.02,7,Yes,21.12,-4.37,20,23.79,Low,422.83,Rejected,Low,Minimal,Decentralized
+LOAN-0077,Construction,282.8,0.13,825,169.79,59,Yes,81.93,16.41,26,38.44,Medium,83.01,Rejected,Medium,Moderate,Decentralized
+LOAN-0078,Technology,451.13,2.67,326,144.71,84,No,94.65,13.69,20,37.49,Medium,228.28,Rejected,High,Moderate,Decentralized
+LOAN-0079,Renewable Energy,379.28,0.82,468,4.61,93,Yes,9.79,-2.24,32,14.04,High,341.56,Rejected,Low,Severe,Centralized
+LOAN-0080,Renewable Energy,160.97,1.79,837,191.58,41,No,37.19,-2.53,25,22.68,Low,113.92,Rejected,Low,Severe,Community-driven
+LOAN-0081,Renewable Energy,332.89,0.86,552,157.98,75,No,18.69,-0.42,28,36.59,High,56.0,Approved,Low,Severe,Decentralized
+LOAN-0082,Renewable Energy,412.03,0.87,546,109.12,85,Yes,57.03,3.14,10,31.09,Medium,76.29,Rejected,Low,Moderate,Centralized
+LOAN-0083,Agriculture,15.05,0.18,711,164.44,89,Yes,26.25,-0.34,28,40.44,Low,405.39,Rejected,Low,Minimal,Decentralized
+LOAN-0084,Agriculture,452.84,0.71,301,82.61,8,Yes,53.02,7.95,30,44.91,High,8.24,Rejected,Low,Severe,Community-driven
+LOAN-0085,Agriculture,422.58,2.55,703,156.31,19,No,90.65,-0.48,15,41.39,Medium,168.44,Rejected,Low,Moderate,Community-driven
+LOAN-0086,Renewable Energy,210.04,0.42,418,153.13,96,Yes,70.61,13.58,9,14.6,Medium,305.53,Rejected,High,Moderate,Community-driven
+LOAN-0087,Agriculture,186.34,0.54,659,120.14,51,No,45.24,12.66,23,16.4,Medium,236.79,Rejected,Medium,Moderate,Centralized
+LOAN-0088,Renewable Energy,334.29,1.31,599,163.27,52,Yes,90.76,19.54,15,35.58,Low,219.89,Rejected,Medium,Severe,Community-driven
+LOAN-0089,Agriculture,472.21,1.07,783,126.32,100,No,51.71,-3.66,35,45.15,Medium,378.75,Rejected,Low,Moderate,Centralized
+LOAN-0090,Construction,118.71,0.78,662,95.69,44,No,45.61,2.0,27,30.44,High,416.52,Rejected,Low,Severe,Community-driven
+LOAN-0091,Agriculture,42.53,0.81,708,165.14,37,No,74.56,19.55,22,32.49,Medium,209.51,Rejected,Low,Moderate,Centralized
+LOAN-0092,Agriculture,200.79,0.36,414,154.87,64,No,96.99,15.37,12,31.16,Medium,390.81,Approved,Medium,Moderate,Decentralized
+LOAN-0093,Healthcare,243.02,2.61,365,177.67,46,Yes,57.65,3.59,26,17.45,Low,197.22,Rejected,Low,Severe,Decentralized
+LOAN-0094,Healthcare,49.9,2.76,414,118.98,68,Yes,67.52,13.55,36,36.72,Low,277.28,Rejected,Medium,Severe,Centralized
+LOAN-0095,Healthcare,101.01,2.33,803,169.08,31,Yes,58.61,-0.38,13,4.04,High,294.24,Rejected,Low,Severe,Decentralized
+LOAN-0096,Renewable Energy,122.07,2.96,829,119.86,42,Yes,79.22,6.82,12,24.24,Medium,6.72,Rejected,Low,Moderate,Centralized
+LOAN-0097,Renewable Energy,386.65,2.41,371,101.45,44,Yes,75.27,23.6,29,18.0,Low,284.83,Rejected,Low,Severe,Community-driven
+LOAN-0098,Renewable Energy,449.6,2.58,731,152.0,5,Yes,90.03,6.94,27,43.55,Low,372.86,Rejected,Low,Severe,Decentralized
+LOAN-0099,Renewable Energy,262.61,1.95,637,150.69,68,No,88.72,18.58,33,10.31,High,476.32,Rejected,Medium,Severe,Centralized
+LOAN-0100,Renewable Energy,86.15,1.44,837,198.26,39,Yes,83.05,-1.26,35,32.95,Medium,446.97,Rejected,Low,Moderate,Decentralized
+LOAN-0101,Construction,355.86,1.89,368,48.73,1,No,85.87,-2.82,12,5.27,Low,245.61,Rejected,Low,Severe,Community-driven
+LOAN-0102,Agriculture,325.36,1.75,614,168.27,91,Yes,33.07,20.18,36,46.99,High,63.42,Rejected,High,Severe,Community-driven
+LOAN-0103,Construction,265.78,0.1,388,194.83,97,Yes,50.1,8.59,25,15.72,Medium,234.17,Rejected,Medium,Moderate,Community-driven
+LOAN-0104,Healthcare,317.79,1.85,625,90.09,55,Yes,16.66,15.52,32,10.22,Medium,180.99,Rejected,Medium,Moderate,Decentralized
+LOAN-0105,Agriculture,468.96,2.59,710,27.94,85,No,66.4,0.19,7,17.37,High,416.52,Rejected,Low,Severe,Decentralized
+LOAN-0106,Agriculture,175.36,1.68,460,137.12,9,No,68.09,22.13,35,39.57,Low,270.8,Approved,Low,Severe,Community-driven
+LOAN-0107,Construction,217.81,0.12,567,110.22,92,No,40.33,13.02,28,28.8,High,169.23,Rejected,High,Severe,Decentralized
+LOAN-0108,Technology,62.06,1.32,796,101.0,11,Yes,27.16,21.78,26,27.1,Medium,4.45,Rejected,Low,Moderate,Community-driven
+LOAN-0109,Renewable Energy,117.77,2.54,660,196.7,22,No,44.55,19.96,14,20.56,Medium,68.09,Rejected,Low,Moderate,Community-driven
+LOAN-0110,Renewable Energy,424.43,1.64,552,43.43,96,No,30.08,-2.95,31,8.5,High,9.37,Rejected,Low,Severe,Community-driven
+LOAN-0111,Renewable Energy,130.74,2.29,374,85.1,78,No,83.78,20.01,8,46.36,High,237.89,Rejected,High,Severe,Decentralized
+LOAN-0112,Healthcare,98.7,0.58,697,149.6,71,No,36.92,19.01,31,6.07,Low,410.38,Rejected,High,Minimal,Centralized
+LOAN-0113,Renewable Energy,388.45,2.96,482,76.6,48,No,85.22,14.07,20,12.0,Medium,240.86,Rejected,Low,Moderate,Centralized
+LOAN-0114,Renewable Energy,356.48,0.21,836,24.28,80,Yes,71.89,-4.69,35,9.28,Medium,37.06,Rejected,Low,Moderate,Decentralized
+LOAN-0115,Construction,253.88,1.69,659,178.74,43,No,47.14,20.01,15,47.54,High,19.26,Rejected,Low,Severe,Community-driven
+LOAN-0116,Agriculture,15.28,1.29,302,191.51,5,No,10.64,8.17,22,39.15,High,229.14,Rejected,Low,Severe,Community-driven
+LOAN-0117,Technology,102.43,1.29,557,173.84,83,No,29.69,-3.51,6,41.26,High,425.25,Rejected,Low,Severe,Community-driven
+LOAN-0118,Agriculture,88.46,1.64,364,170.4,83,No,14.69,15.4,13,15.74,High,67.15,Rejected,High,Severe,Decentralized
+LOAN-0119,Technology,362.47,1.75,816,27.24,21,Yes,63.62,9.8,9,2.54,High,217.97,Rejected,Low,Severe,Decentralized
+LOAN-0120,Agriculture,343.81,2.89,561,49.71,80,Yes,32.28,0.62,18,23.7,Medium,136.22,Rejected,Low,Moderate,Decentralized
+LOAN-0121,Technology,279.89,1.59,439,76.2,80,Yes,89.43,16.19,35,10.36,Low,295.28,Rejected,High,Severe,Decentralized
+LOAN-0122,Technology,216.46,1.98,507,56.09,97,Yes,37.55,0.5,17,5.07,High,18.74,Rejected,Low,Severe,Decentralized
+LOAN-0123,Construction,215.0,0.5,448,54.09,38,No,78.04,20.62,13,14.49,High,86.45,Rejected,Low,Severe,Community-driven
+LOAN-0124,Renewable Energy,118.21,1.56,645,136.6,35,No,65.83,5.05,23,31.92,Low,37.87,Approved,Low,Severe,Decentralized
+LOAN-0125,Renewable Energy,99.37,0.71,717,131.19,12,No,10.61,24.98,22,49.44,High,296.77,Rejected,Low,Severe,Centralized
+LOAN-0126,Technology,499.93,0.52,329,181.55,58,No,19.47,1.06,9,31.2,Medium,113.88,Rejected,Low,Moderate,Decentralized
+LOAN-0127,Renewable Energy,101.38,1.1,702,179.04,88,Yes,55.56,3.42,11,21.69,Low,359.9,Rejected,Low,Severe,Community-driven
+LOAN-0128,Technology,313.45,1.89,825,125.88,1,Yes,81.23,24.6,12,19.81,High,83.49,Rejected,Low,Severe,Centralized
+LOAN-0129,Healthcare,196.57,1.5,797,80.4,93,No,89.29,4.69,24,27.61,High,336.9,Rejected,Low,Severe,Community-driven
+LOAN-0130,Agriculture,82.76,1.0,698,61.96,8,Yes,19.42,24.97,35,13.47,Low,462.17,Rejected,Low,Severe,Community-driven
+LOAN-0131,Construction,127.26,0.65,325,88.46,77,No,33.97,16.86,11,19.55,Medium,49.13,Rejected,High,Moderate,Community-driven
+LOAN-0132,Agriculture,276.3,0.71,492,6.96,45,No,75.68,3.2,25,48.18,Low,219.54,Rejected,Low,Minimal,Community-driven
+LOAN-0133,Healthcare,100.76,2.86,632,82.12,87,No,20.85,14.8,20,33.94,High,424.28,Rejected,High,Severe,Decentralized
+LOAN-0134,Construction,390.68,2.08,344,7.04,97,No,87.1,16.55,8,9.16,Low,159.57,Rejected,High,Severe,Community-driven
+LOAN-0135,Agriculture,446.67,0.82,651,53.32,16,No,39.74,3.83,16,18.63,Low,125.42,Rejected,Low,Minimal,Community-driven
+LOAN-0136,Technology,61.35,1.43,388,60.56,100,No,39.0,13.26,32,45.15,Low,354.51,Rejected,High,Severe,Decentralized
+LOAN-0137,Renewable Energy,424.81,2.03,580,80.89,36,Yes,11.1,-0.9,25,43.82,High,282.31,Rejected,Low,Severe,Community-driven
+LOAN-0138,Technology,17.41,2.54,760,103.71,37,No,10.18,21.03,26,26.79,High,290.32,Rejected,Low,Severe,Decentralized
+LOAN-0139,Healthcare,412.49,1.95,412,90.66,58,No,32.33,-0.42,28,45.26,Medium,388.09,Rejected,Low,Moderate,Centralized
+LOAN-0140,Technology,239.2,1.06,482,153.78,31,No,60.09,5.23,29,2.44,High,207.68,Rejected,Low,Severe,Community-driven
+LOAN-0141,Renewable Energy,33.35,0.76,450,42.96,86,No,23.32,11.07,16,46.54,Medium,253.79,Rejected,High,Moderate,Decentralized
+LOAN-0142,Agriculture,315.83,1.61,697,13.23,71,No,25.72,15.21,7,13.15,High,100.08,Rejected,High,Severe,Community-driven
+LOAN-0143,Healthcare,465.51,0.32,674,20.6,54,Yes,15.19,19.17,13,26.33,Low,465.68,Rejected,Medium,Minimal,Centralized
+LOAN-0144,Renewable Energy,258.01,1.33,625,41.23,79,No,35.2,-0.13,10,6.68,Medium,39.5,Rejected,Low,Moderate,Community-driven
+LOAN-0145,Construction,328.16,1.73,665,119.45,26,No,68.04,-2.76,24,15.85,High,454.46,Approved,Low,Severe,Centralized
+LOAN-0146,Healthcare,424.2,2.76,335,18.1,37,No,11.51,17.83,26,29.44,Medium,291.61,Rejected,Low,Moderate,Decentralized
+LOAN-0147,Healthcare,469.09,2.33,709,101.3,59,No,80.35,14.83,21,25.36,Low,463.87,Rejected,Medium,Severe,Community-driven
+LOAN-0148,Technology,100.34,2.65,849,24.07,6,No,9.43,10.16,35,16.2,Low,345.17,Rejected,Low,Severe,Community-driven
+LOAN-0149,Renewable Energy,36.59,1.63,744,197.43,92,Yes,32.27,24.65,8,24.34,Low,221.43,Rejected,High,Severe,Centralized
+LOAN-0150,Healthcare,53.06,0.98,743,131.82,23,No,92.4,-1.9,14,40.65,High,347.06,Rejected,Low,Severe,Centralized
+LOAN-0151,Agriculture,325.25,2.92,826,77.39,83,Yes,19.37,15.52,15,1.73,High,33.78,Rejected,High,Severe,Community-driven
+LOAN-0152,Renewable Energy,375.51,1.64,701,61.6,34,No,95.49,4.04,32,7.36,Low,463.48,Rejected,Low,Severe,Community-driven
+LOAN-0153,Construction,221.9,2.8,578,105.39,40,Yes,6.42,21.31,25,13.66,High,193.05,Rejected,Low,Severe,Decentralized
+LOAN-0154,Construction,180.56,0.64,385,186.75,20,No,18.36,0.15,35,45.14,Medium,98.45,Rejected,Low,Moderate,Community-driven
+LOAN-0155,Agriculture,491.47,1.58,300,139.01,25,No,68.65,19.84,13,16.64,Medium,47.41,Rejected,Low,Moderate,Centralized
+LOAN-0156,Agriculture,253.93,1.54,544,20.65,56,No,76.16,22.74,29,13.5,Medium,108.87,Rejected,Medium,Moderate,Decentralized
+LOAN-0157,Construction,48.54,1.18,727,4.82,29,No,68.13,19.58,23,35.57,High,196.83,Rejected,Low,Severe,Community-driven
+LOAN-0158,Agriculture,296.9,1.14,765,45.67,27,Yes,83.69,19.4,23,32.84,Low,366.94,Rejected,Low,Severe,Decentralized
+LOAN-0159,Technology,481.38,1.0,708,73.05,5,No,85.09,6.87,10,44.11,Medium,254.44,Rejected,Low,Moderate,Community-driven
+LOAN-0160,Construction,249.57,2.99,574,85.17,10,Yes,50.75,9.78,8,15.3,Low,258.87,Approved,Low,Severe,Community-driven
+LOAN-0161,Construction,100.29,2.48,436,164.49,53,No,36.38,0.11,31,36.7,Medium,288.57,Rejected,Low,Moderate,Decentralized
+LOAN-0162,Renewable Energy,303.83,1.08,704,45.48,3,No,57.22,8.94,32,12.58,Low,246.79,Rejected,Low,Severe,Centralized
+LOAN-0163,Healthcare,81.88,2.81,409,197.41,11,No,46.8,8.48,25,43.66,Medium,199.98,Rejected,Low,Moderate,Community-driven
+LOAN-0164,Technology,362.77,0.67,381,133.77,97,No,55.49,-1.27,18,19.35,Medium,258.63,Rejected,Low,Moderate,Community-driven
+LOAN-0165,Construction,230.99,2.83,774,110.52,8,No,94.67,12.67,14,23.79,Low,346.19,Rejected,Low,Severe,Centralized
+LOAN-0166,Technology,296.38,0.61,337,177.97,74,Yes,65.91,7.97,19,35.56,High,12.85,Approved,Medium,Severe,Decentralized
+LOAN-0167,Technology,94.78,1.91,842,57.5,23,No,20.33,18.06,16,20.34,Low,426.99,Rejected,Low,Severe,Centralized
+LOAN-0168,Healthcare,276.12,1.26,833,174.44,58,Yes,93.33,12.19,15,5.62,High,337.12,Rejected,Medium,Severe,Centralized
+LOAN-0169,Construction,385.97,2.1,340,29.07,40,No,5.08,9.64,25,32.16,Low,223.28,Rejected,Low,Severe,Centralized
+LOAN-0170,Renewable Energy,494.1,0.95,482,183.09,96,No,29.69,21.76,22,39.94,Low,298.46,Rejected,High,Minimal,Centralized
+LOAN-0171,Construction,474.64,0.12,756,154.11,37,No,50.52,3.12,19,14.85,High,169.5,Rejected,Low,Severe,Centralized
+LOAN-0172,Construction,87.81,1.31,316,27.36,42,No,95.32,22.92,19,46.77,Medium,473.24,Approved,Low,Moderate,Centralized
+LOAN-0173,Renewable Energy,436.26,1.4,482,24.34,95,Yes,19.6,5.08,26,29.38,High,40.68,Rejected,Medium,Severe,Decentralized
+LOAN-0174,Agriculture,313.39,2.49,693,35.77,52,Yes,5.23,5.67,14,7.65,High,317.25,Rejected,Medium,Severe,Community-driven
+LOAN-0175,Construction,351.92,2.75,781,128.79,89,No,40.33,17.4,21,21.31,Medium,94.84,Rejected,High,Moderate,Community-driven
+LOAN-0176,Renewable Energy,168.54,2.84,328,154.48,78,Yes,78.22,14.18,18,17.15,Medium,164.87,Rejected,High,Moderate,Centralized
+LOAN-0177,Healthcare,270.43,2.72,621,97.76,93,Yes,54.23,21.2,7,23.94,Medium,158.62,Rejected,High,Moderate,Decentralized
+LOAN-0178,Healthcare,269.02,2.64,676,178.42,26,No,15.46,-0.58,22,29.21,High,87.75,Rejected,Low,Severe,Community-driven
+LOAN-0179,Technology,239.29,2.41,638,111.74,96,No,7.81,0.61,8,19.02,Low,318.71,Rejected,Low,Severe,Centralized
+LOAN-0180,Healthcare,208.76,2.89,711,168.43,56,No,99.49,-0.58,11,1.81,Medium,412.07,Rejected,Low,Moderate,Decentralized
+LOAN-0181,Renewable Energy,320.44,1.17,514,68.84,57,Yes,46.6,12.05,25,19.75,Medium,138.47,Rejected,Medium,Moderate,Community-driven
+LOAN-0182,Agriculture,181.66,0.85,587,113.8,84,Yes,37.59,21.24,32,2.51,Medium,334.0,Approved,High,Moderate,Centralized
+LOAN-0183,Construction,90.89,0.71,850,198.51,62,No,88.3,-2.53,31,27.94,High,342.5,Rejected,Low,Severe,Centralized
+LOAN-0184,Construction,10.89,1.43,329,122.74,3,No,36.61,7.68,20,29.76,Low,48.13,Rejected,Low,Severe,Centralized
+LOAN-0185,Technology,402.21,2.39,479,52.4,95,No,47.86,10.6,16,43.74,Medium,111.3,Rejected,High,Moderate,Centralized
+LOAN-0186,Technology,126.39,2.45,798,194.39,4,Yes,59.59,-3.02,21,47.46,Low,213.04,Approved,Low,Severe,Decentralized
+LOAN-0187,Agriculture,370.94,0.42,782,124.99,35,Yes,71.98,19.89,18,45.37,Low,39.23,Rejected,Low,Minimal,Centralized
+LOAN-0188,Renewable Energy,227.24,1.95,751,1.63,96,No,42.05,10.12,20,30.83,Medium,363.71,Rejected,High,Moderate,Decentralized
+LOAN-0189,Technology,68.02,2.91,446,115.98,33,Yes,72.53,18.2,35,3.81,Medium,46.06,Rejected,Low,Moderate,Decentralized
+LOAN-0190,Agriculture,363.3,2.21,822,123.69,16,No,98.96,0.25,17,26.36,High,369.84,Rejected,Low,Severe,Centralized
+LOAN-0191,Healthcare,319.52,1.94,672,51.02,26,Yes,48.94,24.46,14,42.66,High,271.84,Rejected,Low,Severe,Centralized
+LOAN-0192,Construction,477.0,2.16,537,81.77,60,Yes,51.95,22.07,15,2.05,High,352.75,Rejected,Medium,Severe,Centralized
+LOAN-0193,Renewable Energy,312.94,2.44,586,4.81,91,Yes,35.49,16.9,25,45.38,Medium,332.68,Rejected,High,Moderate,Centralized
+LOAN-0194,Technology,213.49,2.36,638,33.84,84,No,37.11,-3.07,8,40.3,Low,403.01,Rejected,Low,Severe,Centralized
+LOAN-0195,Construction,356.54,1.5,460,113.59,87,No,68.8,18.12,24,36.39,High,201.03,Rejected,High,Severe,Decentralized
+LOAN-0196,Construction,181.94,2.4,698,160.33,43,Yes,89.67,11.57,13,19.3,Medium,223.03,Approved,Low,Moderate,Centralized
+LOAN-0197,Agriculture,165.05,1.94,502,173.07,28,Yes,62.83,15.41,23,6.91,Low,217.53,Rejected,Low,Severe,Decentralized
+LOAN-0198,Renewable Energy,128.71,1.91,438,157.25,59,Yes,58.54,21.71,33,24.63,Medium,487.48,Rejected,Medium,Moderate,Decentralized
+LOAN-0199,Agriculture,161.21,0.25,798,193.65,98,No,84.63,9.13,23,33.07,High,3.86,Rejected,Medium,Severe,Centralized
+LOAN-0200,Technology,23.81,2.85,615,80.42,71,Yes,42.37,7.47,25,6.58,Medium,267.68,Approved,Medium,Moderate,Centralized
+LOAN-0201,Construction,191.79,2.66,517,74.8,3,No,63.17,3.8,28,44.93,High,419.78,Rejected,Low,Severe,Centralized
+LOAN-0202,Construction,474.93,0.84,585,49.52,56,No,9.75,-4.66,28,2.57,Low,458.42,Rejected,Low,Minimal,Centralized
+LOAN-0203,Agriculture,191.81,1.31,737,91.37,57,No,93.31,7.28,27,10.75,High,277.86,Rejected,Medium,Severe,Centralized
+LOAN-0204,Healthcare,258.07,1.6,644,69.51,43,No,40.75,17.11,18,27.84,High,191.52,Rejected,Low,Severe,Centralized
+LOAN-0205,Healthcare,401.88,2.15,753,130.76,67,No,24.58,-1.26,27,35.95,Low,118.86,Rejected,Low,Severe,Decentralized
+LOAN-0206,Renewable Energy,295.57,1.47,314,129.77,13,No,38.98,22.18,31,36.26,High,434.69,Rejected,Low,Severe,Decentralized
+LOAN-0207,Healthcare,485.0,2.88,646,197.15,28,No,52.35,15.7,14,20.75,High,170.75,Rejected,Low,Severe,Centralized
+LOAN-0208,Technology,252.38,2.56,796,114.59,57,No,25.29,-2.48,30,33.12,High,412.75,Rejected,Low,Severe,Centralized
+LOAN-0209,Technology,337.16,0.75,819,83.37,85,Yes,75.5,15.76,33,9.71,Medium,483.65,Rejected,High,Moderate,Decentralized
+LOAN-0210,Construction,392.89,0.69,422,53.1,90,Yes,11.81,11.66,35,28.12,High,374.11,Rejected,High,Severe,Centralized
+LOAN-0211,Agriculture,92.42,0.9,730,130.4,58,Yes,97.92,6.14,10,18.74,High,158.51,Rejected,Medium,Severe,Community-driven
+LOAN-0212,Technology,221.59,1.49,659,131.34,41,Yes,72.22,23.29,14,22.47,Medium,360.99,Rejected,Low,Moderate,Centralized
+LOAN-0213,Renewable Energy,320.23,0.75,733,147.98,98,Yes,46.45,-1.24,31,32.81,Low,37.1,Rejected,Low,Minimal,Community-driven
+LOAN-0214,Agriculture,395.73,2.04,814,93.93,69,Yes,16.59,18.18,26,6.43,Medium,28.66,Rejected,Medium,Moderate,Community-driven
+LOAN-0215,Technology,135.52,2.14,573,175.58,22,No,53.9,19.09,35,17.55,High,18.96,Rejected,Low,Severe,Community-driven
+LOAN-0216,Renewable Energy,133.86,2.11,798,176.99,20,No,41.52,-4.22,31,17.89,High,17.23,Rejected,Low,Severe,Community-driven
+LOAN-0217,Agriculture,396.66,1.57,654,50.78,17,Yes,96.13,13.38,32,24.3,Medium,349.73,Rejected,Low,Moderate,Community-driven
+LOAN-0218,Healthcare,101.7,1.71,571,30.25,48,Yes,83.45,9.12,24,32.98,High,67.97,Rejected,Low,Severe,Decentralized
+LOAN-0219,Agriculture,61.31,2.15,666,181.44,5,Yes,94.11,0.56,28,21.23,Medium,24.26,Approved,Low,Moderate,Community-driven
+LOAN-0220,Agriculture,460.55,2.52,777,61.74,98,Yes,59.7,14.74,14,36.57,Low,113.78,Rejected,High,Severe,Centralized
+LOAN-0221,Healthcare,135.07,0.67,606,20.78,1,No,58.5,22.22,16,2.78,High,399.11,Rejected,Low,Severe,Centralized
+LOAN-0222,Healthcare,403.01,2.44,732,99.58,43,No,60.73,-3.59,32,15.28,Medium,402.87,Rejected,Low,Moderate,Community-driven
+LOAN-0223,Technology,186.06,0.51,802,39.2,36,No,35.77,12.57,9,6.29,Low,349.29,Rejected,Low,Minimal,Centralized
+LOAN-0224,Agriculture,326.61,0.68,627,78.72,91,Yes,55.69,6.86,32,10.17,Low,387.4,Rejected,Medium,Minimal,Community-driven
+LOAN-0225,Agriculture,438.97,0.78,792,59.67,36,No,17.91,20.53,9,7.98,High,45.4,Rejected,Low,Severe,Community-driven
+LOAN-0226,Construction,93.13,0.36,739,105.91,25,Yes,82.29,-1.47,22,21.09,High,115.63,Rejected,Low,Severe,Centralized
+LOAN-0227,Agriculture,469.04,2.33,732,56.79,66,Yes,24.82,4.53,9,34.59,High,483.3,Rejected,Low,Severe,Decentralized
+LOAN-0228,Construction,490.31,1.76,791,96.96,55,No,57.25,6.42,11,41.51,Medium,273.17,Rejected,Medium,Moderate,Community-driven
+LOAN-0229,Agriculture,424.11,2.94,752,10.45,66,Yes,98.09,18.51,19,11.13,High,8.29,Rejected,Medium,Severe,Community-driven
+LOAN-0230,Renewable Energy,134.46,0.8,475,199.85,67,No,10.74,8.92,23,3.65,High,433.15,Rejected,Medium,Severe,Community-driven
+LOAN-0231,Healthcare,60.52,1.94,600,141.72,83,Yes,12.55,6.02,6,11.38,Low,377.85,Rejected,Medium,Severe,Community-driven
+LOAN-0232,Renewable Energy,15.55,2.8,624,36.95,78,Yes,74.28,6.95,10,36.42,Medium,241.89,Rejected,Medium,Moderate,Community-driven
+LOAN-0233,Healthcare,203.6,2.42,633,56.72,58,Yes,73.76,8.37,28,47.44,High,124.37,Rejected,Medium,Severe,Decentralized
+LOAN-0234,Healthcare,177.37,0.49,553,4.35,68,Yes,18.2,17.68,27,20.95,High,53.46,Rejected,Medium,Severe,Community-driven
+LOAN-0235,Construction,312.76,0.11,666,157.77,13,Yes,20.38,-4.25,8,20.22,Low,484.88,Rejected,Low,Minimal,Decentralized
+LOAN-0236,Agriculture,200.3,1.95,306,197.73,16,Yes,60.06,21.25,35,32.62,Low,322.73,Approved,Low,Severe,Decentralized
+LOAN-0237,Agriculture,366.01,0.26,392,118.82,71,Yes,52.31,20.17,22,10.39,Low,428.3,Rejected,High,Minimal,Decentralized
+LOAN-0238,Agriculture,238.73,2.41,413,160.83,9,No,98.59,6.13,10,22.82,Medium,60.41,Rejected,Low,Moderate,Centralized
+LOAN-0239,Technology,81.93,0.36,770,39.47,71,Yes,98.46,5.35,25,19.07,High,268.63,Rejected,Medium,Severe,Community-driven
+LOAN-0240,Technology,77.79,2.92,651,167.73,85,No,46.52,-4.24,7,17.83,Medium,309.88,Rejected,Low,Moderate,Community-driven
+LOAN-0241,Healthcare,182.68,2.97,810,81.33,14,Yes,87.83,11.87,27,14.43,Low,32.09,Rejected,Low,Severe,Community-driven
+LOAN-0242,Construction,41.88,0.85,717,70.04,26,No,46.9,1.28,17,45.58,Low,188.34,Rejected,Low,Minimal,Community-driven
+LOAN-0243,Agriculture,315.54,2.68,423,39.9,39,Yes,87.15,2.54,19,8.76,Low,334.28,Rejected,Low,Severe,Community-driven
+LOAN-0244,Technology,401.8,1.69,683,104.26,81,No,66.64,13.38,23,3.85,Medium,110.68,Rejected,High,Moderate,Community-driven
+LOAN-0245,Renewable Energy,198.6,0.47,770,31.75,3,Yes,7.97,10.05,23,9.86,Medium,347.76,Rejected,Low,Moderate,Centralized
+LOAN-0246,Renewable Energy,47.78,2.44,420,175.14,1,Yes,94.55,19.48,11,28.29,Medium,224.57,Rejected,Low,Moderate,Decentralized
+LOAN-0247,Healthcare,498.08,2.35,311,194.81,9,No,56.57,-0.1,19,26.6,Low,452.62,Rejected,Low,Severe,Centralized
+LOAN-0248,Technology,198.35,0.98,703,132.3,83,Yes,84.61,2.41,8,17.09,Medium,470.16,Approved,Low,Moderate,Community-driven
+LOAN-0249,Technology,340.12,0.54,569,104.95,22,No,19.4,24.42,28,46.67,Low,426.43,Rejected,Low,Minimal,Community-driven
+LOAN-0250,Agriculture,171.57,2.81,692,56.05,22,Yes,73.47,-0.55,17,29.41,Medium,454.15,Rejected,Low,Moderate,Community-driven
+LOAN-0251,Construction,36.4,0.41,495,192.52,15,No,70.67,-3.85,25,41.72,Low,206.74,Rejected,Low,Minimal,Centralized
+LOAN-0252,Technology,58.01,2.08,337,167.61,60,Yes,38.21,-0.89,7,28.23,Low,55.65,Rejected,Low,Severe,Decentralized
+LOAN-0253,Healthcare,292.66,2.74,517,140.31,92,No,13.56,-2.09,27,21.73,Low,273.3,Rejected,Low,Severe,Centralized
+LOAN-0254,Technology,447.0,2.17,474,135.05,88,No,90.87,22.69,31,49.17,High,491.49,Rejected,High,Severe,Decentralized
+LOAN-0255,Agriculture,172.72,0.44,412,169.92,88,No,24.66,9.48,34,38.05,High,237.62,Rejected,Medium,Severe,Community-driven
+LOAN-0256,Technology,43.74,1.07,838,71.57,71,No,45.41,5.21,34,16.82,High,275.42,Approved,Medium,Severe,Community-driven
+LOAN-0257,Agriculture,380.64,1.48,704,142.24,65,Yes,99.53,14.35,36,21.34,High,414.84,Rejected,Medium,Severe,Community-driven
+LOAN-0258,Construction,394.96,0.63,334,159.99,14,Yes,16.55,1.1,27,11.81,Low,380.27,Approved,Low,Minimal,Community-driven
+LOAN-0259,Technology,180.48,2.05,753,197.15,83,Yes,81.67,16.87,16,5.02,High,402.0,Rejected,High,Severe,Community-driven
+LOAN-0260,Healthcare,42.25,0.81,515,134.63,34,Yes,90.16,-0.68,23,16.57,Low,452.87,Rejected,Low,Minimal,Centralized
+LOAN-0261,Agriculture,241.4,1.94,736,73.56,50,Yes,64.65,4.39,24,14.15,High,233.96,Rejected,Low,Severe,Decentralized
+LOAN-0262,Renewable Energy,95.82,1.04,482,106.47,88,Yes,82.2,-2.76,27,38.95,High,332.62,Rejected,Low,Severe,Centralized
+LOAN-0263,Renewable Energy,434.97,2.97,382,175.44,17,No,12.89,5.31,30,16.46,High,256.27,Rejected,Low,Severe,Decentralized
+LOAN-0264,Construction,441.07,0.98,698,33.47,83,No,27.29,5.07,36,39.83,High,488.59,Rejected,Medium,Severe,Decentralized
+LOAN-0265,Construction,301.74,1.82,477,171.09,75,No,16.2,19.84,16,5.83,Low,89.22,Rejected,High,Severe,Community-driven
+LOAN-0266,Agriculture,233.25,0.71,424,183.95,78,Yes,87.24,24.29,25,27.17,Medium,296.84,Rejected,High,Moderate,Decentralized
+LOAN-0267,Agriculture,76.23,2.74,472,145.57,96,No,63.26,16.58,21,6.94,Medium,60.1,Rejected,High,Moderate,Decentralized
+LOAN-0268,Construction,124.36,2.35,661,197.56,15,Yes,56.04,5.08,21,31.13,High,327.51,Rejected,Low,Severe,Centralized
+LOAN-0269,Agriculture,293.25,0.56,628,182.68,31,Yes,58.98,18.31,15,19.75,High,44.92,Approved,Low,Severe,Decentralized
+LOAN-0270,Technology,406.28,0.84,784,10.78,33,No,21.48,7.66,27,25.29,High,305.81,Rejected,Low,Severe,Centralized
+LOAN-0271,Construction,300.6,1.74,543,31.87,58,Yes,71.0,19.23,36,43.37,High,21.11,Rejected,Medium,Severe,Community-driven
+LOAN-0272,Renewable Energy,491.3,2.01,582,169.53,80,No,71.91,24.13,7,33.7,Low,314.59,Rejected,High,Severe,Centralized
+LOAN-0273,Construction,174.54,1.58,439,49.23,51,No,32.96,18.17,21,10.74,Low,318.61,Rejected,Medium,Severe,Community-driven
+LOAN-0274,Agriculture,254.45,0.21,648,167.54,82,No,62.69,15.37,24,30.58,Medium,70.61,Rejected,High,Moderate,Community-driven
+LOAN-0275,Healthcare,307.68,1.31,846,154.6,47,Yes,59.37,22.56,15,3.14,Medium,144.15,Rejected,Low,Moderate,Community-driven
+LOAN-0276,Agriculture,473.44,0.57,441,149.75,70,No,41.14,1.53,36,12.52,High,86.9,Rejected,Low,Severe,Community-driven
+LOAN-0277,Agriculture,98.83,0.73,481,192.1,89,No,51.93,19.65,27,10.05,Medium,352.24,Rejected,High,Moderate,Decentralized
+LOAN-0278,Technology,451.3,1.97,408,68.58,33,No,71.2,-3.7,26,6.32,High,71.73,Rejected,Low,Severe,Community-driven
+LOAN-0279,Agriculture,178.98,1.67,544,64.98,59,Yes,88.89,12.81,35,4.71,High,98.62,Approved,Medium,Severe,Community-driven
+LOAN-0280,Healthcare,135.92,2.81,639,110.68,93,No,93.33,9.75,30,9.62,High,30.62,Rejected,Medium,Severe,Community-driven
+LOAN-0281,Healthcare,296.34,1.08,629,155.62,34,Yes,86.02,8.67,10,44.99,Low,497.23,Rejected,Low,Severe,Community-driven
+LOAN-0282,Agriculture,472.68,0.65,395,180.41,14,Yes,16.06,14.13,8,28.75,High,156.81,Rejected,Low,Severe,Centralized
+LOAN-0283,Construction,379.05,2.25,810,85.94,31,Yes,47.56,22.77,10,5.85,Low,32.7,Rejected,Low,Severe,Community-driven
+LOAN-0284,Renewable Energy,57.69,1.06,718,42.09,82,Yes,46.48,7.53,20,8.94,Low,264.35,Rejected,Medium,Severe,Centralized
+LOAN-0285,Technology,69.93,1.39,511,133.73,11,Yes,15.65,16.59,25,20.0,Medium,176.26,Approved,Low,Moderate,Centralized
+LOAN-0286,Healthcare,64.13,0.83,611,82.26,60,No,63.18,13.64,32,16.45,High,44.16,Rejected,Medium,Severe,Centralized
+LOAN-0287,Construction,482.31,1.61,439,67.42,75,No,45.75,14.44,28,44.73,Low,483.65,Rejected,High,Severe,Decentralized
+LOAN-0288,Agriculture,401.95,1.57,800,136.03,28,No,70.91,4.08,32,47.79,Medium,367.0,Rejected,Low,Moderate,Decentralized
+LOAN-0289,Renewable Energy,484.99,2.87,419,153.67,67,No,79.1,22.34,27,1.6,Medium,137.83,Rejected,Medium,Moderate,Centralized
+LOAN-0290,Healthcare,96.04,0.17,373,120.53,28,Yes,7.44,16.16,31,8.15,Low,109.97,Approved,Low,Minimal,Centralized
+LOAN-0291,Renewable Energy,496.18,1.22,507,42.79,48,Yes,70.5,16.47,26,37.63,Medium,12.56,Rejected,Low,Moderate,Community-driven
+LOAN-0292,Agriculture,308.65,1.3,305,152.26,88,No,31.2,2.17,17,44.22,Low,46.08,Rejected,Low,Severe,Community-driven
+LOAN-0293,Renewable Energy,354.03,2.73,458,15.53,48,Yes,62.3,22.07,20,27.01,High,413.98,Rejected,Low,Severe,Community-driven
+LOAN-0294,Construction,29.13,2.47,835,84.88,94,No,7.96,7.21,21,20.52,Medium,226.84,Rejected,Medium,Moderate,Centralized
+LOAN-0295,Technology,277.24,0.77,541,175.04,96,No,90.81,11.81,15,31.39,Medium,34.19,Rejected,High,Moderate,Centralized
+LOAN-0296,Renewable Energy,476.38,0.12,624,66.77,7,No,73.62,23.54,19,16.38,High,198.33,Rejected,Low,Severe,Centralized
+LOAN-0297,Technology,460.86,0.61,562,104.68,53,No,23.28,4.15,18,15.13,Low,364.83,Rejected,Low,Minimal,Community-driven
+LOAN-0298,Construction,309.27,1.59,717,13.5,72,Yes,70.51,7.9,15,26.55,High,155.87,Rejected,Medium,Severe,Decentralized
+LOAN-0299,Renewable Energy,17.74,0.22,464,9.56,69,Yes,36.46,5.53,32,3.56,High,497.4,Rejected,Medium,Severe,Community-driven
+LOAN-0300,Renewable Energy,416.34,0.48,705,24.14,79,Yes,51.43,14.89,34,30.2,Medium,446.78,Rejected,High,Moderate,Centralized
+LOAN-0301,Construction,466.86,0.68,339,127.14,66,Yes,87.71,-2.71,12,46.35,High,177.85,Rejected,Low,Severe,Decentralized
+LOAN-0302,Healthcare,35.09,1.41,836,128.21,27,Yes,46.71,18.09,9,33.44,High,70.04,Rejected,Low,Severe,Decentralized
+LOAN-0303,Agriculture,316.53,0.14,769,197.24,97,No,95.67,10.14,31,25.65,Low,432.51,Rejected,High,Minimal,Decentralized
+LOAN-0304,Technology,427.67,1.77,506,21.77,85,Yes,86.64,16.48,14,17.15,Low,296.25,Rejected,High,Severe,Community-driven
+LOAN-0305,Healthcare,242.12,0.25,565,185.71,54,Yes,26.92,12.92,35,46.91,High,296.78,Rejected,Medium,Severe,Decentralized
+LOAN-0306,Technology,247.07,1.45,568,196.27,60,Yes,13.54,6.52,10,6.94,High,142.86,Rejected,Medium,Severe,Centralized
+LOAN-0307,Healthcare,59.78,1.24,783,26.21,13,No,97.18,8.07,20,7.13,Medium,302.65,Rejected,Low,Moderate,Centralized
+LOAN-0308,Agriculture,146.03,0.84,474,97.62,61,Yes,11.91,4.97,35,34.83,Low,306.15,Rejected,Low,Minimal,Centralized
+LOAN-0309,Agriculture,106.89,0.16,823,43.31,28,No,54.72,-4.92,6,47.25,High,162.21,Rejected,Low,Severe,Decentralized
+LOAN-0310,Renewable Energy,95.24,0.37,678,118.06,99,Yes,9.31,14.53,14,35.14,Medium,5.03,Rejected,High,Moderate,Community-driven
+LOAN-0311,Agriculture,181.76,2.58,455,45.66,2,Yes,81.96,-0.17,20,33.28,High,318.49,Rejected,Low,Severe,Centralized
+LOAN-0312,Healthcare,110.99,1.85,306,93.13,37,Yes,57.99,5.4,25,23.02,High,422.95,Rejected,Low,Severe,Community-driven
+LOAN-0313,Renewable Energy,91.28,0.32,469,40.63,92,No,48.94,8.85,18,26.33,Low,386.55,Rejected,Medium,Minimal,Community-driven
+LOAN-0314,Healthcare,425.74,2.48,556,111.79,52,No,81.89,23.22,7,35.27,High,155.32,Approved,Medium,Severe,Community-driven
+LOAN-0315,Technology,69.44,1.32,402,79.64,10,Yes,38.06,22.42,35,47.18,High,464.43,Rejected,Low,Severe,Community-driven
+LOAN-0316,Construction,178.74,1.91,607,8.01,39,No,96.5,-1.24,33,6.42,High,88.84,Rejected,Low,Severe,Community-driven
+LOAN-0317,Construction,373.28,1.13,601,138.55,78,Yes,77.97,17.27,11,38.86,Low,87.61,Rejected,High,Severe,Centralized
+LOAN-0318,Construction,28.59,1.63,675,47.44,51,Yes,48.88,11.08,18,5.7,Medium,272.79,Rejected,Medium,Moderate,Decentralized
+LOAN-0319,Technology,150.13,0.11,671,195.55,24,No,99.42,-3.01,11,37.45,Medium,333.3,Rejected,Low,Moderate,Community-driven
+LOAN-0320,Technology,165.17,2.22,792,76.77,45,Yes,88.59,15.16,6,18.07,Medium,286.39,Rejected,Low,Moderate,Decentralized
+LOAN-0321,Construction,89.63,0.18,505,37.29,46,Yes,27.42,19.77,12,40.76,High,256.4,Approved,Low,Severe,Community-driven
+LOAN-0322,Healthcare,130.77,2.48,553,24.42,29,Yes,58.81,10.78,36,12.61,Low,328.19,Approved,Low,Severe,Centralized
+LOAN-0323,Technology,473.79,2.99,480,97.01,57,Yes,61.23,19.25,11,45.92,Medium,331.26,Rejected,Medium,Moderate,Centralized
+LOAN-0324,Renewable Energy,166.91,0.57,776,162.98,21,Yes,88.45,3.61,36,38.36,High,344.07,Rejected,Low,Severe,Community-driven
+LOAN-0325,Healthcare,71.1,1.76,385,64.5,42,No,7.37,-3.97,19,46.97,Low,142.6,Rejected,Low,Severe,Community-driven
+LOAN-0326,Agriculture,51.06,1.2,486,59.3,32,Yes,42.37,18.69,25,27.1,High,455.3,Rejected,Low,Severe,Centralized
+LOAN-0327,Renewable Energy,495.82,1.43,432,38.84,34,Yes,20.18,-3.31,7,4.13,Medium,72.51,Rejected,Low,Moderate,Community-driven
+LOAN-0328,Healthcare,430.78,0.51,477,118.77,97,Yes,22.7,7.26,19,28.39,High,496.45,Rejected,Medium,Severe,Centralized
+LOAN-0329,Healthcare,139.22,2.88,479,94.62,24,Yes,62.33,15.87,20,8.32,Low,304.18,Approved,Low,Severe,Centralized
+LOAN-0330,Renewable Energy,314.14,1.65,464,33.62,22,No,37.39,24.93,14,6.66,Low,149.07,Rejected,Low,Severe,Centralized
+LOAN-0331,Healthcare,386.73,1.81,827,45.8,82,Yes,51.79,4.12,35,44.67,High,401.0,Rejected,Low,Severe,Community-driven
+LOAN-0332,Construction,56.29,1.41,786,35.5,92,Yes,26.37,0.71,8,37.84,High,143.03,Approved,Low,Severe,Decentralized
+LOAN-0333,Healthcare,362.79,1.37,820,138.84,17,Yes,55.29,22.78,36,21.97,Medium,229.14,Rejected,Low,Moderate,Decentralized
+LOAN-0334,Construction,470.57,1.14,613,168.36,96,Yes,75.41,0.68,25,2.1,High,329.34,Rejected,Low,Severe,Decentralized
+LOAN-0335,Renewable Energy,104.92,2.33,539,137.02,83,No,41.72,8.38,6,43.55,Low,256.53,Rejected,Medium,Severe,Decentralized
+LOAN-0336,Renewable Energy,199.6,2.26,846,83.9,70,Yes,56.66,20.69,6,19.84,Medium,57.98,Rejected,Medium,Moderate,Centralized
+LOAN-0337,Technology,360.16,2.85,640,189.1,77,Yes,61.83,24.33,34,10.56,Medium,14.71,Rejected,High,Moderate,Community-driven
+LOAN-0338,Construction,419.84,2.46,463,35.09,21,Yes,12.54,-0.62,20,14.25,Medium,350.04,Rejected,Low,Moderate,Decentralized
+LOAN-0339,Healthcare,450.54,1.03,684,134.34,20,Yes,72.78,6.57,35,30.52,Medium,167.02,Rejected,Low,Moderate,Decentralized
+LOAN-0340,Healthcare,282.6,2.41,790,53.35,71,Yes,35.91,18.95,34,47.69,High,61.17,Rejected,High,Severe,Decentralized
+LOAN-0341,Construction,34.73,0.76,483,169.7,25,No,9.48,2.68,25,8.1,High,261.98,Rejected,Low,Severe,Centralized
+LOAN-0342,Healthcare,362.93,2.2,589,140.49,32,No,56.93,-4.75,30,9.32,Low,198.52,Rejected,Low,Severe,Community-driven
+LOAN-0343,Renewable Energy,487.68,0.57,311,115.95,76,No,91.63,24.65,28,5.3,Medium,189.51,Rejected,High,Moderate,Community-driven
+LOAN-0344,Technology,121.33,0.59,687,123.69,47,Yes,54.01,10.91,11,17.34,High,388.4,Rejected,Low,Severe,Community-driven
+LOAN-0345,Technology,320.15,1.22,699,199.37,67,No,46.25,17.51,9,28.62,High,262.5,Rejected,Medium,Severe,Decentralized
+LOAN-0346,Healthcare,116.98,0.71,748,40.26,57,Yes,28.22,7.22,33,24.34,Low,225.89,Approved,Medium,Minimal,Community-driven
+LOAN-0347,Technology,273.69,1.16,682,7.23,69,Yes,35.86,1.35,11,3.18,High,280.15,Rejected,Low,Severe,Decentralized
+LOAN-0348,Construction,330.98,0.48,333,85.01,9,Yes,49.68,21.56,14,47.4,High,86.2,Rejected,Low,Severe,Centralized
+LOAN-0349,Technology,413.65,1.94,590,183.38,18,No,85.52,16.24,13,30.09,Medium,236.27,Rejected,Low,Moderate,Decentralized
+LOAN-0350,Agriculture,412.95,1.1,770,167.29,82,Yes,83.64,11.07,6,13.09,Medium,209.76,Rejected,High,Moderate,Centralized
+LOAN-0351,Construction,116.4,2.09,798,59.33,47,No,29.31,2.36,15,44.68,Low,496.13,Rejected,Low,Severe,Centralized
+LOAN-0352,Renewable Energy,469.63,0.52,724,191.19,10,Yes,16.32,19.72,27,37.29,Medium,334.52,Rejected,Low,Moderate,Community-driven
+LOAN-0353,Technology,428.75,1.8,491,17.13,79,No,10.51,20.53,27,40.4,Low,15.27,Rejected,High,Severe,Decentralized
+LOAN-0354,Agriculture,354.83,2.66,358,172.36,98,No,31.8,-2.06,34,5.84,High,462.84,Rejected,Low,Severe,Decentralized
+LOAN-0355,Agriculture,259.73,2.17,717,12.71,12,Yes,97.4,21.79,15,3.27,High,176.25,Rejected,Low,Severe,Community-driven
+LOAN-0356,Construction,484.88,2.93,647,48.86,98,No,62.16,1.66,36,12.7,Medium,219.61,Rejected,Low,Moderate,Community-driven
+LOAN-0357,Construction,442.75,2.86,486,36.08,77,No,66.77,23.19,29,31.28,Medium,32.85,Rejected,High,Moderate,Decentralized
+LOAN-0358,Healthcare,85.19,2.71,634,130.87,88,No,36.87,14.91,34,45.29,High,492.04,Rejected,High,Severe,Community-driven
+LOAN-0359,Healthcare,137.84,1.22,362,70.07,5,Yes,37.81,17.92,14,29.23,Low,144.69,Rejected,Low,Severe,Community-driven
+LOAN-0360,Construction,180.92,0.18,457,105.07,41,Yes,52.34,15.04,29,41.37,High,453.27,Rejected,Low,Severe,Centralized
+LOAN-0361,Technology,469.47,0.71,396,84.61,63,No,92.53,21.64,14,3.25,Medium,137.66,Rejected,Medium,Moderate,Decentralized
+LOAN-0362,Agriculture,416.48,1.04,583,94.95,50,No,96.96,4.53,10,47.81,Low,182.1,Rejected,Low,Severe,Decentralized
+LOAN-0363,Healthcare,371.11,0.69,320,176.64,58,No,84.16,1.09,11,17.61,High,411.01,Rejected,Low,Severe,Community-driven
+LOAN-0364,Construction,178.14,2.74,326,57.43,85,Yes,61.75,23.64,12,6.74,Low,78.93,Rejected,High,Severe,Community-driven
+LOAN-0365,Healthcare,140.85,1.25,517,105.47,98,Yes,8.5,3.47,25,46.89,High,271.25,Rejected,Low,Severe,Centralized
+LOAN-0366,Renewable Energy,253.92,1.56,715,145.99,27,Yes,27.71,11.81,10,8.06,High,168.86,Approved,Low,Severe,Community-driven
+LOAN-0367,Agriculture,272.69,1.58,584,29.68,50,No,67.42,6.18,30,12.71,High,221.83,Rejected,Low,Severe,Community-driven
+LOAN-0368,Healthcare,203.85,1.85,618,101.88,90,Yes,61.15,11.98,19,45.58,Low,401.33,Approved,High,Severe,Community-driven
+LOAN-0369,Agriculture,337.89,1.92,432,40.17,17,Yes,8.75,23.02,13,3.25,High,195.98,Rejected,Low,Severe,Centralized
+LOAN-0370,Technology,268.84,0.4,684,62.52,20,Yes,58.32,4.59,13,18.32,High,272.86,Rejected,Low,Severe,Decentralized
+LOAN-0371,Renewable Energy,242.05,1.61,564,103.46,70,No,11.03,-2.03,23,28.23,Low,382.53,Rejected,Low,Severe,Decentralized
+LOAN-0372,Technology,178.94,1.33,372,138.28,88,Yes,95.53,12.26,14,25.06,Medium,9.05,Rejected,High,Moderate,Centralized
+LOAN-0373,Agriculture,99.75,2.13,542,199.59,59,Yes,39.98,11.56,17,20.38,Low,482.73,Rejected,Medium,Severe,Centralized
+LOAN-0374,Agriculture,218.17,1.91,763,144.59,92,No,60.93,0.34,28,1.48,Low,59.63,Rejected,Low,Severe,Decentralized
+LOAN-0375,Technology,116.41,1.19,699,164.66,23,Yes,23.84,12.61,22,17.48,Low,42.06,Approved,Low,Severe,Centralized
+LOAN-0376,Healthcare,297.95,2.65,653,157.13,14,Yes,51.83,0.34,33,7.07,Low,414.91,Rejected,Low,Severe,Decentralized
+LOAN-0377,Technology,488.95,2.11,682,186.4,35,Yes,81.04,-0.65,33,13.9,Medium,498.69,Rejected,Low,Moderate,Community-driven
+LOAN-0378,Technology,461.7,1.74,823,185.25,8,No,35.95,23.41,6,13.92,Low,495.8,Rejected,Low,Severe,Decentralized
+LOAN-0379,Agriculture,369.97,2.26,807,47.88,91,No,25.84,5.47,23,48.69,Medium,385.87,Rejected,Medium,Moderate,Decentralized
+LOAN-0380,Healthcare,140.8,1.93,621,4.14,90,Yes,67.88,17.83,17,18.65,Low,23.04,Rejected,High,Severe,Decentralized
+LOAN-0381,Healthcare,353.2,1.21,397,189.0,54,No,42.63,3.89,36,13.07,Low,258.87,Rejected,Low,Severe,Centralized
+LOAN-0382,Construction,52.08,0.29,453,144.6,68,No,51.96,8.64,16,12.23,High,15.8,Rejected,Medium,Severe,Decentralized
+LOAN-0383,Technology,467.99,0.28,381,137.65,22,No,93.78,21.23,6,48.38,Medium,147.48,Rejected,Low,Moderate,Community-driven
+LOAN-0384,Agriculture,316.93,0.93,470,178.34,2,Yes,84.52,12.66,21,40.72,High,463.66,Rejected,Low,Severe,Community-driven
+LOAN-0385,Technology,442.7,0.41,684,164.92,26,Yes,63.9,14.67,19,18.98,Low,407.74,Rejected,Low,Minimal,Decentralized
+LOAN-0386,Technology,450.15,0.11,504,69.68,30,No,40.29,7.31,24,43.66,Low,71.46,Rejected,Low,Minimal,Community-driven
+LOAN-0387,Healthcare,317.11,1.05,557,93.34,15,No,14.85,17.46,24,5.93,Low,417.43,Rejected,Low,Severe,Centralized
+LOAN-0388,Construction,287.31,0.64,775,161.92,41,No,91.45,2.37,7,47.55,High,296.81,Rejected,Low,Severe,Decentralized
+LOAN-0389,Technology,150.15,2.84,471,179.62,67,No,74.71,20.3,20,10.44,Medium,486.86,Rejected,Medium,Moderate,Decentralized
+LOAN-0390,Construction,89.46,0.11,622,51.64,97,Yes,12.12,18.42,29,30.7,Medium,266.2,Rejected,High,Moderate,Community-driven
+LOAN-0391,Healthcare,54.25,2.01,779,162.38,25,Yes,26.92,23.64,32,39.36,Medium,19.77,Rejected,Low,Moderate,Decentralized
+LOAN-0392,Construction,231.43,1.91,699,68.5,17,Yes,8.27,21.42,26,7.61,Medium,489.24,Rejected,Low,Moderate,Community-driven
+LOAN-0393,Construction,173.46,1.95,354,69.73,37,No,92.21,24.43,32,44.01,High,356.91,Rejected,Low,Severe,Decentralized
+LOAN-0394,Technology,457.98,2.4,420,21.89,89,Yes,7.07,7.99,13,5.91,Medium,104.49,Rejected,Medium,Moderate,Community-driven
+LOAN-0395,Healthcare,368.2,1.05,334,19.2,8,No,81.14,16.05,20,5.41,Low,486.2,Rejected,Low,Severe,Centralized
+LOAN-0396,Agriculture,429.93,2.53,361,112.36,84,Yes,37.59,19.14,26,38.88,Low,64.81,Rejected,High,Severe,Centralized
+LOAN-0397,Healthcare,224.67,1.09,699,137.61,41,No,13.11,11.79,9,32.63,High,464.7,Rejected,Low,Severe,Community-driven
+LOAN-0398,Renewable Energy,376.25,1.81,843,27.25,24,Yes,29.02,22.77,30,16.94,Low,14.96,Rejected,Low,Severe,Decentralized
+LOAN-0399,Construction,50.03,2.86,627,55.66,90,No,16.89,-1.57,36,32.8,Medium,313.47,Rejected,Low,Moderate,Community-driven
+LOAN-0400,Renewable Energy,279.23,0.2,585,164.91,18,Yes,77.93,1.95,26,15.93,Low,428.1,Rejected,Low,Minimal,Community-driven
+LOAN-0401,Technology,406.56,0.79,840,49.44,47,No,71.91,20.62,14,29.28,Medium,484.46,Rejected,Low,Moderate,Centralized
+LOAN-0402,Agriculture,163.85,1.01,483,59.64,76,No,78.45,1.39,13,39.37,Low,343.27,Rejected,Low,Severe,Centralized
+LOAN-0403,Renewable Energy,313.7,2.76,758,9.19,52,Yes,19.86,12.09,24,30.07,Medium,42.2,Rejected,Medium,Moderate,Community-driven
+LOAN-0404,Renewable Energy,440.55,1.34,639,97.45,8,No,35.24,-4.99,22,4.04,Medium,398.14,Rejected,Low,Moderate,Centralized
+LOAN-0405,Agriculture,168.75,2.2,593,151.25,40,No,14.59,4.8,7,24.19,Low,464.71,Rejected,Low,Severe,Community-driven
+LOAN-0406,Agriculture,170.03,0.25,761,24.42,82,No,77.35,4.11,21,28.78,High,277.98,Rejected,Low,Severe,Centralized
+LOAN-0407,Agriculture,451.17,0.4,661,122.67,12,Yes,60.99,13.89,28,5.67,High,400.8,Rejected,Low,Severe,Community-driven
+LOAN-0408,Healthcare,343.28,0.2,529,122.34,28,No,59.58,-0.43,26,24.17,Low,268.09,Rejected,Low,Minimal,Decentralized
+LOAN-0409,Healthcare,331.15,1.32,611,64.68,81,Yes,30.75,22.77,17,19.81,Medium,492.66,Approved,High,Moderate,Decentralized
+LOAN-0410,Construction,235.8,0.75,643,193.27,97,No,14.09,23.83,26,28.8,Low,156.2,Rejected,High,Minimal,Decentralized
+LOAN-0411,Technology,76.2,0.57,463,105.64,100,No,98.06,-4.01,34,9.11,Low,399.66,Rejected,Low,Minimal,Centralized
+LOAN-0412,Agriculture,41.62,0.31,710,116.19,33,Yes,36.08,21.09,17,49.3,Medium,69.02,Rejected,Low,Moderate,Community-driven
+LOAN-0413,Technology,339.02,0.59,590,182.39,43,No,97.0,-0.15,36,5.52,Medium,61.19,Approved,Low,Moderate,Community-driven
+LOAN-0414,Healthcare,259.1,1.28,841,78.18,77,Yes,85.69,19.75,36,3.61,High,470.86,Rejected,High,Severe,Centralized
+LOAN-0415,Technology,76.42,2.32,598,199.58,13,No,88.56,-0.19,24,8.12,High,491.81,Approved,Low,Severe,Decentralized
+LOAN-0416,Renewable Energy,33.56,1.56,788,31.75,50,Yes,40.02,18.87,22,19.77,Low,250.51,Rejected,Low,Severe,Centralized
+LOAN-0417,Healthcare,488.57,2.48,385,159.95,18,Yes,98.2,6.29,17,33.95,Low,15.09,Rejected,Low,Severe,Centralized
+LOAN-0418,Technology,170.53,0.95,826,46.49,99,Yes,32.84,14.64,14,12.44,High,260.3,Rejected,High,Severe,Decentralized
+LOAN-0419,Agriculture,159.03,0.6,626,153.47,53,Yes,59.38,14.52,28,47.78,High,55.08,Rejected,Medium,Severe,Decentralized
+LOAN-0420,Technology,278.7,2.35,683,183.54,55,No,10.44,10.37,31,46.46,Medium,141.19,Rejected,Medium,Moderate,Centralized
+LOAN-0421,Construction,327.2,0.94,790,143.05,79,Yes,26.51,24.63,15,9.69,Medium,24.39,Rejected,High,Moderate,Community-driven
+LOAN-0422,Construction,433.86,0.82,801,59.38,22,No,45.11,-1.39,23,26.4,Low,323.25,Rejected,Low,Minimal,Community-driven
+LOAN-0423,Renewable Energy,425.92,2.12,656,35.72,6,No,21.82,17.47,18,5.36,High,394.15,Rejected,Low,Severe,Community-driven
+LOAN-0424,Renewable Energy,208.09,2.42,547,166.85,32,No,72.4,16.67,9,32.23,Medium,184.12,Rejected,Low,Moderate,Decentralized
+LOAN-0425,Agriculture,117.54,2.2,842,78.83,24,Yes,41.49,14.3,12,8.25,High,362.16,Rejected,Low,Severe,Centralized
+LOAN-0426,Healthcare,349.44,2.06,578,192.59,78,Yes,98.83,2.36,24,31.57,High,432.0,Rejected,Low,Severe,Centralized
+LOAN-0427,Agriculture,220.86,1.32,442,196.52,14,Yes,7.83,3.11,23,32.26,High,281.11,Rejected,Low,Severe,Community-driven
+LOAN-0428,Technology,297.9,1.49,779,108.89,29,Yes,49.84,-2.94,9,42.64,Low,32.62,Rejected,Low,Severe,Centralized
+LOAN-0429,Technology,497.47,0.4,494,165.89,20,Yes,8.87,22.84,34,31.44,Medium,134.04,Rejected,Low,Moderate,Centralized
+LOAN-0430,Agriculture,349.86,2.05,626,51.54,92,No,51.31,4.73,11,19.48,High,122.22,Rejected,Low,Severe,Centralized
+LOAN-0431,Healthcare,356.88,1.3,681,122.91,32,Yes,57.4,-2.11,26,8.41,Medium,317.56,Rejected,Low,Moderate,Centralized
+LOAN-0432,Healthcare,289.01,1.62,447,125.8,34,No,14.9,-3.57,16,41.21,High,176.03,Rejected,Low,Severe,Centralized
+LOAN-0433,Agriculture,484.71,2.7,772,121.5,33,Yes,81.96,1.62,17,46.18,High,2.85,Rejected,Low,Severe,Centralized
+LOAN-0434,Technology,132.46,1.44,438,19.92,91,No,61.8,16.85,30,36.31,Medium,194.8,Rejected,High,Moderate,Community-driven
+LOAN-0435,Renewable Energy,217.02,2.7,576,63.59,67,Yes,60.9,15.59,18,33.44,Low,402.39,Rejected,Medium,Severe,Centralized
+LOAN-0436,Healthcare,261.13,2.95,485,48.74,42,No,86.5,0.53,24,23.88,High,153.98,Rejected,Low,Severe,Centralized
+LOAN-0437,Agriculture,211.56,1.67,701,130.9,60,Yes,99.11,9.82,8,24.69,Medium,63.51,Rejected,Medium,Moderate,Centralized
+LOAN-0438,Renewable Energy,422.49,1.85,705,83.24,77,No,71.01,1.01,29,23.11,Low,357.6,Rejected,Low,Severe,Centralized
+LOAN-0439,Renewable Energy,245.4,0.1,536,9.42,76,Yes,46.85,16.78,6,33.5,Low,190.84,Rejected,High,Minimal,Decentralized
+LOAN-0440,Construction,397.61,2.36,554,73.27,63,No,38.96,19.01,14,12.78,High,447.73,Rejected,Medium,Severe,Decentralized
+LOAN-0441,Renewable Energy,406.17,0.99,328,177.93,50,No,72.9,20.19,13,4.91,High,59.47,Rejected,Low,Severe,Decentralized
+LOAN-0442,Agriculture,409.76,1.81,359,175.9,83,No,51.64,10.16,6,32.74,Low,281.7,Rejected,High,Severe,Community-driven
+LOAN-0443,Renewable Energy,38.4,0.51,436,18.8,30,Yes,64.67,22.18,22,5.09,High,178.02,Rejected,Low,Severe,Decentralized
+LOAN-0444,Construction,136.74,1.78,611,143.78,85,Yes,89.08,-2.12,32,27.65,Low,288.59,Rejected,Low,Severe,Decentralized
+LOAN-0445,Agriculture,418.25,1.44,532,96.73,81,No,72.47,19.98,7,3.4,Medium,141.65,Rejected,High,Moderate,Community-driven
+LOAN-0446,Healthcare,149.47,2.9,592,79.15,51,No,11.63,4.1,20,7.18,Medium,368.03,Rejected,Low,Moderate,Decentralized
+LOAN-0447,Renewable Energy,168.31,1.83,488,99.8,14,No,14.94,16.89,8,6.79,High,48.74,Rejected,Low,Severe,Decentralized
+LOAN-0448,Agriculture,111.87,0.62,418,65.07,81,Yes,36.43,12.11,24,10.39,High,125.18,Rejected,High,Severe,Decentralized
+LOAN-0449,Agriculture,362.79,2.23,694,86.03,10,Yes,40.34,24.84,32,20.48,High,264.16,Rejected,Low,Severe,Centralized
+LOAN-0450,Agriculture,172.72,2.73,782,36.66,51,Yes,23.24,23.31,7,41.73,High,384.88,Rejected,Medium,Severe,Centralized
+LOAN-0451,Renewable Energy,264.32,0.61,606,2.86,53,Yes,20.07,12.89,14,14.01,Medium,303.79,Rejected,Medium,Moderate,Centralized
+LOAN-0452,Renewable Energy,386.07,2.82,693,137.98,86,No,90.54,9.88,12,2.09,Low,23.23,Rejected,Medium,Severe,Community-driven
+LOAN-0453,Technology,397.25,1.1,838,54.18,17,Yes,23.55,-1.88,23,28.76,High,31.11,Rejected,Low,Severe,Community-driven
+LOAN-0454,Agriculture,467.84,0.19,461,12.56,16,Yes,50.05,21.97,31,6.79,Medium,393.59,Rejected,Low,Moderate,Decentralized
+LOAN-0455,Healthcare,210.61,0.45,654,81.44,44,Yes,70.0,16.97,11,41.27,High,114.32,Rejected,Low,Severe,Community-driven
+LOAN-0456,Renewable Energy,136.46,2.26,449,109.87,10,No,43.78,19.79,21,36.71,High,345.92,Rejected,Low,Severe,Community-driven
+LOAN-0457,Construction,477.02,2.48,475,28.87,54,No,93.51,18.36,15,6.96,Low,217.41,Rejected,Medium,Severe,Decentralized
+LOAN-0458,Construction,193.11,0.49,378,64.34,37,Yes,9.6,12.95,9,16.58,Low,85.95,Rejected,Low,Minimal,Community-driven
+LOAN-0459,Healthcare,187.27,0.48,780,108.1,73,No,35.0,22.89,29,16.04,High,282.24,Rejected,High,Severe,Community-driven
+LOAN-0460,Technology,221.81,1.32,364,91.36,14,Yes,51.06,3.57,13,13.39,Low,186.92,Rejected,Low,Severe,Centralized
+LOAN-0461,Technology,165.17,2.28,717,14.57,37,No,62.61,0.67,23,34.59,High,482.6,Rejected,Low,Severe,Centralized
+LOAN-0462,Healthcare,324.06,1.93,835,101.68,76,Yes,54.91,20.06,20,24.41,High,405.3,Rejected,High,Severe,Decentralized
+LOAN-0463,Construction,345.7,1.74,834,193.39,22,No,59.21,24.15,16,40.14,High,210.24,Rejected,Low,Severe,Centralized
+LOAN-0464,Technology,230.59,1.05,463,194.7,2,Yes,27.16,-1.12,12,26.84,Low,316.59,Rejected,Low,Severe,Community-driven
+LOAN-0465,Healthcare,94.6,2.7,506,124.96,61,Yes,20.44,-2.25,30,43.57,Low,333.28,Rejected,Low,Severe,Centralized
+LOAN-0466,Construction,180.16,1.03,400,64.35,54,No,75.59,16.48,34,22.88,High,122.57,Rejected,Medium,Severe,Community-driven
+LOAN-0467,Agriculture,274.53,0.99,769,154.7,78,No,73.95,3.79,29,24.51,Low,292.76,Rejected,Low,Minimal,Community-driven
+LOAN-0468,Renewable Energy,63.78,1.54,420,156.95,12,Yes,43.15,-4.25,25,47.09,Medium,360.68,Rejected,Low,Moderate,Community-driven
+LOAN-0469,Agriculture,99.68,1.75,649,98.64,35,No,72.47,12.67,32,14.92,Low,283.22,Rejected,Low,Severe,Decentralized
+LOAN-0470,Renewable Energy,429.64,1.16,382,64.56,7,Yes,87.48,15.35,31,11.72,Low,72.57,Rejected,Low,Severe,Decentralized
+LOAN-0471,Construction,162.04,3.0,515,125.53,69,Yes,63.5,24.47,22,45.87,High,184.7,Rejected,Medium,Severe,Decentralized
+LOAN-0472,Renewable Energy,66.45,0.14,732,25.84,73,Yes,7.1,3.77,17,26.59,Low,333.87,Rejected,Low,Minimal,Community-driven
+LOAN-0473,Agriculture,139.03,1.83,695,193.81,74,Yes,79.31,17.45,25,1.1,High,15.38,Rejected,High,Severe,Community-driven
+LOAN-0474,Technology,173.21,2.71,518,42.24,41,Yes,57.7,0.45,36,29.2,Low,347.86,Rejected,Low,Severe,Community-driven
+LOAN-0475,Renewable Energy,51.87,0.81,707,164.8,80,Yes,13.4,-1.95,29,44.52,High,424.27,Rejected,Low,Severe,Community-driven
+LOAN-0476,Technology,90.0,2.94,751,171.88,59,Yes,7.99,14.59,10,24.03,Medium,112.22,Rejected,Medium,Moderate,Community-driven
+LOAN-0477,Agriculture,294.99,2.07,839,67.62,39,No,57.12,18.56,13,42.73,Medium,326.99,Rejected,Low,Moderate,Community-driven
+LOAN-0478,Healthcare,250.26,2.21,437,95.34,34,No,51.0,-1.42,24,36.4,Medium,451.28,Rejected,Low,Moderate,Decentralized
+LOAN-0479,Technology,458.43,1.36,417,169.43,24,Yes,60.42,-3.34,22,32.82,High,68.82,Rejected,Low,Severe,Centralized
+LOAN-0480,Technology,492.95,0.74,401,9.54,95,No,99.28,4.83,9,36.57,Medium,93.7,Rejected,Low,Moderate,Centralized
+LOAN-0481,Agriculture,186.72,2.49,453,139.18,65,Yes,15.21,17.62,35,13.72,High,292.12,Rejected,Medium,Severe,Community-driven
+LOAN-0482,Renewable Energy,390.89,1.08,331,79.53,96,No,53.26,-2.61,36,34.54,Low,4.03,Rejected,Low,Severe,Centralized
+LOAN-0483,Agriculture,429.04,1.97,722,172.92,94,No,48.06,18.2,35,8.91,High,118.08,Rejected,High,Severe,Centralized
+LOAN-0484,Healthcare,235.68,2.06,803,129.34,8,Yes,52.3,1.1,6,39.97,Medium,241.48,Rejected,Low,Moderate,Community-driven
+LOAN-0485,Technology,256.45,0.75,413,180.88,94,No,62.37,14.91,16,18.79,High,99.49,Rejected,High,Severe,Decentralized
+LOAN-0486,Construction,125.58,2.55,615,10.94,54,Yes,32.12,-3.12,33,9.93,High,142.06,Approved,Low,Severe,Community-driven
+LOAN-0487,Healthcare,282.02,2.62,649,49.74,51,Yes,59.79,20.58,19,21.84,Medium,147.73,Rejected,Medium,Moderate,Centralized
+LOAN-0488,Healthcare,173.39,1.06,398,42.57,67,No,59.64,16.46,25,32.12,Medium,406.99,Rejected,Medium,Moderate,Centralized
+LOAN-0489,Construction,69.65,2.79,334,49.04,21,Yes,77.86,-4.8,34,19.8,High,291.0,Rejected,Low,Severe,Centralized
+LOAN-0490,Agriculture,363.11,1.1,667,53.69,82,Yes,30.46,-4.55,29,36.92,Medium,475.69,Rejected,Low,Moderate,Decentralized
+LOAN-0491,Renewable Energy,195.61,0.43,721,8.2,88,No,86.94,18.28,22,13.87,Low,202.97,Rejected,High,Minimal,Decentralized
+LOAN-0492,Healthcare,444.86,1.35,717,18.7,21,No,15.56,14.03,35,36.93,Low,188.51,Rejected,Low,Severe,Community-driven
+LOAN-0493,Construction,24.49,0.61,633,58.98,100,Yes,95.55,12.34,16,32.32,Low,2.88,Rejected,High,Minimal,Centralized
+LOAN-0494,Healthcare,91.61,0.45,544,26.16,42,No,77.91,0.55,17,21.08,Low,138.73,Rejected,Low,Minimal,Community-driven
+LOAN-0495,Renewable Energy,349.91,1.46,397,133.2,76,Yes,92.64,22.56,27,30.88,Medium,114.64,Rejected,High,Moderate,Decentralized
+LOAN-0496,Construction,207.95,1.94,824,83.69,66,No,23.91,6.29,33,10.5,High,298.24,Rejected,Medium,Severe,Centralized
+LOAN-0497,Agriculture,309.8,2.15,526,30.12,77,No,46.08,18.71,24,3.18,High,324.98,Rejected,High,Severe,Community-driven
+LOAN-0498,Renewable Energy,367.02,2.98,788,1.61,13,Yes,70.15,23.45,13,29.46,Medium,231.82,Rejected,Low,Moderate,Community-driven
+LOAN-0499,Construction,315.65,1.25,727,4.24,71,No,76.03,11.35,31,31.29,High,267.11,Rejected,High,Severe,Decentralized
+LOAN-0500,Healthcare,25.96,1.84,493,64.58,22,No,68.51,10.57,7,36.73,Low,290.4,Rejected,Low,Severe,Centralized
+LOAN-0501,Agriculture,30.7,0.63,522,33.76,28,No,65.51,19.71,12,30.17,High,410.12,Rejected,Low,Severe,Centralized
+LOAN-0502,Renewable Energy,54.57,1.99,544,2.41,25,Yes,95.93,18.07,27,33.66,High,256.26,Rejected,Low,Severe,Community-driven
+LOAN-0503,Agriculture,428.86,2.19,581,103.75,95,Yes,61.06,4.22,24,6.23,Low,363.66,Rejected,Low,Severe,Decentralized
+LOAN-0504,Agriculture,64.91,2.4,743,66.63,72,Yes,18.27,2.56,25,34.57,Medium,62.11,Rejected,Low,Moderate,Centralized
+LOAN-0505,Technology,97.3,0.21,745,4.38,65,No,34.63,14.26,27,22.09,High,4.58,Rejected,Medium,Severe,Centralized
+LOAN-0506,Renewable Energy,447.79,1.63,437,102.49,52,No,50.32,0.42,25,28.6,Medium,406.89,Rejected,Low,Moderate,Community-driven
+LOAN-0507,Construction,43.12,0.7,326,32.34,32,Yes,7.99,18.65,36,11.74,Medium,296.52,Rejected,Low,Moderate,Centralized
+LOAN-0508,Construction,142.42,2.75,511,165.23,55,Yes,93.27,12.66,34,42.07,High,261.69,Approved,Medium,Severe,Community-driven
+LOAN-0509,Technology,448.97,1.02,564,86.11,10,Yes,17.53,2.86,32,18.34,Low,253.85,Rejected,Low,Severe,Decentralized
+LOAN-0510,Agriculture,232.09,0.11,494,130.94,91,Yes,76.71,-2.09,14,16.39,Low,360.13,Rejected,Low,Minimal,Community-driven
+LOAN-0511,Renewable Energy,189.08,1.14,454,121.72,57,No,44.84,-2.86,8,36.41,High,440.39,Rejected,Low,Severe,Decentralized
+LOAN-0512,Agriculture,175.47,1.36,626,45.17,45,No,18.02,12.96,23,42.92,Low,317.14,Rejected,Low,Severe,Centralized
+LOAN-0513,Renewable Energy,248.85,2.01,789,3.08,65,No,60.01,7.82,10,3.58,Low,373.47,Approved,Medium,Severe,Centralized
+LOAN-0514,Healthcare,262.36,2.3,558,28.09,4,Yes,78.0,6.08,23,29.94,Low,204.69,Rejected,Low,Severe,Community-driven
+LOAN-0515,Renewable Energy,24.58,0.48,615,139.43,77,No,35.19,16.29,26,11.42,Low,36.71,Rejected,High,Minimal,Community-driven
+LOAN-0516,Renewable Energy,13.86,2.99,558,62.63,95,Yes,93.63,19.94,10,40.8,Low,34.98,Rejected,High,Severe,Centralized
+LOAN-0517,Renewable Energy,349.97,2.27,692,134.99,35,Yes,57.01,6.55,14,25.21,Medium,33.5,Rejected,Low,Moderate,Community-driven
+LOAN-0518,Technology,364.72,2.44,772,155.81,76,No,76.9,16.21,29,29.0,Low,89.85,Rejected,High,Severe,Community-driven
+LOAN-0519,Construction,56.56,1.85,470,43.9,31,Yes,90.78,22.96,36,27.22,Low,476.95,Rejected,Low,Severe,Decentralized
+LOAN-0520,Renewable Energy,143.31,1.98,802,109.79,82,Yes,94.81,1.95,30,42.84,High,281.74,Rejected,Low,Severe,Community-driven
+LOAN-0521,Healthcare,120.58,1.97,479,138.96,30,Yes,64.54,17.44,20,18.66,Medium,192.06,Rejected,Low,Moderate,Decentralized
+LOAN-0522,Construction,116.21,0.45,528,169.35,37,No,31.81,8.04,18,13.98,Medium,278.6,Rejected,Low,Moderate,Community-driven
+LOAN-0523,Construction,73.71,0.94,410,11.46,28,No,8.99,-4.48,18,19.73,Low,46.77,Rejected,Low,Minimal,Community-driven
+LOAN-0524,Agriculture,282.91,0.55,796,65.81,87,No,74.93,12.96,9,22.23,High,328.71,Rejected,High,Severe,Community-driven
+LOAN-0525,Technology,268.09,0.19,798,111.34,19,No,98.41,0.61,23,13.73,Medium,78.01,Rejected,Low,Moderate,Community-driven
+LOAN-0526,Construction,156.21,2.85,423,89.67,56,Yes,34.5,6.38,25,15.38,High,5.36,Rejected,Medium,Severe,Community-driven
+LOAN-0527,Construction,235.21,1.02,319,38.66,54,No,56.12,18.82,22,4.91,High,476.83,Rejected,Medium,Severe,Decentralized
+LOAN-0528,Renewable Energy,440.1,0.4,619,95.02,30,Yes,75.44,9.52,17,16.14,Medium,355.5,Rejected,Low,Moderate,Community-driven
+LOAN-0529,Agriculture,162.47,0.62,605,14.75,96,Yes,31.48,17.32,13,18.71,High,191.65,Rejected,High,Severe,Community-driven
+LOAN-0530,Construction,474.74,0.54,679,7.57,47,Yes,64.82,23.89,19,8.01,High,239.86,Rejected,Low,Severe,Community-driven
+LOAN-0531,Healthcare,26.52,1.81,534,194.83,87,No,99.87,20.21,34,38.88,High,490.13,Rejected,High,Severe,Community-driven
+LOAN-0532,Renewable Energy,423.71,2.59,376,112.04,24,Yes,60.73,17.93,36,49.1,High,467.58,Rejected,Low,Severe,Community-driven
+LOAN-0533,Renewable Energy,109.27,1.68,633,149.84,54,No,10.27,2.8,20,30.27,Medium,490.11,Rejected,Low,Moderate,Centralized
+LOAN-0534,Healthcare,284.3,2.19,694,5.88,85,Yes,24.3,9.28,16,26.11,High,57.12,Rejected,Medium,Severe,Decentralized
+LOAN-0535,Renewable Energy,353.5,1.9,790,40.94,4,No,76.81,3.13,7,47.73,Low,27.1,Approved,Low,Severe,Community-driven
+LOAN-0536,Agriculture,119.34,2.98,518,198.49,68,No,26.28,-3.77,35,24.47,High,390.23,Rejected,Low,Severe,Community-driven
+LOAN-0537,Renewable Energy,138.6,0.5,606,49.83,3,No,7.59,11.61,22,36.95,Medium,476.51,Rejected,Low,Moderate,Decentralized
+LOAN-0538,Healthcare,361.85,1.82,550,36.74,37,No,22.93,17.31,16,7.41,Low,167.21,Rejected,Low,Severe,Community-driven
+LOAN-0539,Healthcare,157.43,0.35,502,99.26,44,No,75.61,14.29,31,46.85,Low,344.61,Rejected,Low,Minimal,Decentralized
+LOAN-0540,Technology,59.71,2.04,401,192.53,99,Yes,96.53,10.13,22,34.04,Low,66.85,Rejected,High,Severe,Decentralized
+LOAN-0541,Technology,254.55,0.39,836,79.95,66,No,47.54,-3.76,28,9.39,High,409.67,Rejected,Low,Severe,Community-driven
+LOAN-0542,Technology,394.78,1.6,791,166.92,7,No,44.6,7.3,35,28.76,Medium,420.22,Rejected,Low,Moderate,Centralized
+LOAN-0543,Agriculture,454.91,2.47,746,61.84,99,No,27.93,10.52,9,18.19,Low,337.63,Rejected,High,Severe,Decentralized
+LOAN-0544,Renewable Energy,229.06,2.88,650,71.92,4,No,21.32,-3.05,11,38.12,Low,389.57,Rejected,Low,Severe,Community-driven
+LOAN-0545,Technology,402.65,1.12,332,126.2,61,No,65.27,8.05,8,7.27,High,246.88,Rejected,Medium,Severe,Centralized
+LOAN-0546,Agriculture,63.21,1.46,311,45.84,18,No,29.21,10.44,15,21.73,High,381.06,Rejected,Low,Severe,Centralized
+LOAN-0547,Technology,252.79,2.3,431,104.79,14,Yes,96.07,-4.88,26,10.46,High,325.05,Approved,Low,Severe,Decentralized
+LOAN-0548,Renewable Energy,57.07,0.65,698,120.06,70,No,35.24,-3.99,27,39.07,Medium,295.26,Approved,Low,Moderate,Centralized
+LOAN-0549,Agriculture,450.78,0.77,575,128.52,4,No,91.44,21.45,13,44.99,Medium,356.37,Rejected,Low,Moderate,Decentralized
+LOAN-0550,Renewable Energy,433.28,0.55,775,23.76,3,Yes,47.15,1.75,25,26.74,Low,188.04,Rejected,Low,Minimal,Community-driven
+LOAN-0551,Renewable Energy,78.04,1.54,463,42.43,11,No,24.47,17.72,17,21.34,Low,313.7,Rejected,Low,Severe,Decentralized
+LOAN-0552,Agriculture,116.42,0.31,727,151.6,74,No,68.13,24.35,24,1.7,Low,489.2,Rejected,High,Minimal,Community-driven
+LOAN-0553,Technology,332.81,2.94,426,25.76,20,Yes,72.78,3.07,31,3.27,Low,454.91,Rejected,Low,Severe,Centralized
+LOAN-0554,Construction,474.35,1.32,390,178.87,10,No,78.24,-3.47,26,33.05,Low,341.75,Rejected,Low,Severe,Decentralized
+LOAN-0555,Technology,324.87,1.42,783,57.07,51,Yes,9.95,24.31,27,38.56,Medium,474.62,Rejected,Medium,Moderate,Centralized
+LOAN-0556,Renewable Energy,364.83,0.15,729,98.69,39,No,17.79,5.76,18,37.47,High,283.7,Rejected,Low,Severe,Community-driven
+LOAN-0557,Agriculture,353.91,1.7,549,69.26,94,No,88.25,8.07,19,35.89,High,259.28,Rejected,Medium,Severe,Community-driven
+LOAN-0558,Agriculture,88.58,1.55,689,66.56,10,No,28.34,-4.78,29,20.35,Medium,433.39,Rejected,Low,Moderate,Community-driven
+LOAN-0559,Construction,342.24,2.3,552,173.76,17,No,13.79,2.28,18,14.09,Low,348.38,Rejected,Low,Severe,Community-driven
+LOAN-0560,Agriculture,463.98,2.34,710,119.37,92,No,80.59,11.35,25,34.66,High,322.25,Rejected,High,Severe,Decentralized
+LOAN-0561,Construction,272.72,1.82,671,130.66,73,Yes,61.31,23.39,13,41.87,High,284.61,Rejected,High,Severe,Centralized
+LOAN-0562,Agriculture,447.85,2.35,829,110.42,42,No,81.01,3.65,25,14.04,Low,253.81,Rejected,Low,Severe,Centralized
+LOAN-0563,Technology,285.14,1.71,833,101.82,9,No,70.28,9.13,21,46.11,High,348.67,Rejected,Low,Severe,Community-driven
+LOAN-0564,Agriculture,468.99,2.73,800,178.43,86,Yes,9.85,22.02,19,45.23,High,458.99,Rejected,High,Severe,Community-driven
+LOAN-0565,Healthcare,230.76,2.95,412,86.34,40,No,45.7,18.84,20,13.09,Low,305.7,Rejected,Low,Severe,Community-driven
+LOAN-0566,Construction,110.93,2.1,533,59.7,33,No,57.72,2.39,18,9.66,Low,18.93,Rejected,Low,Severe,Decentralized
+LOAN-0567,Technology,477.29,0.43,462,198.39,52,No,30.22,1.01,15,47.77,High,408.97,Rejected,Low,Severe,Community-driven
+LOAN-0568,Technology,302.08,1.25,612,134.59,13,No,19.51,1.85,7,39.44,Medium,436.74,Rejected,Low,Moderate,Community-driven
+LOAN-0569,Agriculture,70.81,2.1,363,158.66,10,Yes,96.98,17.69,33,29.88,Medium,173.42,Rejected,Low,Moderate,Decentralized
+LOAN-0570,Construction,410.39,2.97,831,11.44,62,Yes,71.04,5.81,22,41.9,Medium,189.35,Rejected,Medium,Moderate,Centralized
+LOAN-0571,Technology,338.56,2.94,839,127.19,86,Yes,76.49,12.06,35,12.1,Medium,379.14,Rejected,High,Moderate,Decentralized
+LOAN-0572,Renewable Energy,245.61,2.66,379,199.84,98,No,63.08,14.24,19,26.08,Low,438.77,Rejected,High,Severe,Centralized
+LOAN-0573,Technology,435.55,1.32,406,16.2,19,Yes,54.62,4.71,29,11.5,High,328.76,Rejected,Low,Severe,Community-driven
+LOAN-0574,Construction,237.62,0.29,534,137.96,39,Yes,52.39,5.6,15,2.6,Medium,137.9,Rejected,Low,Moderate,Decentralized
+LOAN-0575,Agriculture,137.09,2.87,808,6.68,58,Yes,94.26,23.29,17,31.74,Low,406.42,Rejected,Medium,Severe,Decentralized
+LOAN-0576,Construction,494.0,0.55,471,44.85,81,Yes,84.29,23.95,12,49.63,Medium,392.99,Approved,High,Moderate,Community-driven
+LOAN-0577,Healthcare,186.49,1.03,363,99.56,29,Yes,63.92,5.31,27,28.11,High,100.72,Rejected,Low,Severe,Decentralized
+LOAN-0578,Agriculture,423.19,2.79,313,117.94,80,No,21.72,-0.16,26,17.41,High,471.97,Rejected,Low,Severe,Community-driven
+LOAN-0579,Agriculture,348.53,0.79,314,112.43,93,Yes,21.96,8.89,18,14.54,High,19.7,Rejected,Medium,Severe,Centralized
+LOAN-0580,Renewable Energy,378.91,0.93,357,4.99,55,No,59.08,3.19,8,19.86,High,441.07,Rejected,Low,Severe,Decentralized
+LOAN-0581,Healthcare,407.66,1.94,434,54.57,54,No,77.23,18.48,28,42.17,Medium,136.51,Rejected,Medium,Moderate,Community-driven
+LOAN-0582,Renewable Energy,292.95,1.33,730,44.92,32,Yes,25.36,11.69,16,14.28,Medium,423.55,Rejected,Low,Moderate,Decentralized
+LOAN-0583,Healthcare,118.67,2.37,469,46.22,14,No,20.39,16.14,7,41.9,High,341.21,Rejected,Low,Severe,Decentralized
+LOAN-0584,Healthcare,386.77,2.95,694,54.86,33,Yes,38.75,12.49,9,26.81,High,330.74,Rejected,Low,Severe,Decentralized
+LOAN-0585,Technology,373.49,2.2,624,167.02,43,No,64.84,3.98,8,5.68,Low,164.08,Rejected,Low,Severe,Community-driven
+LOAN-0586,Renewable Energy,355.31,1.91,618,54.13,78,Yes,10.62,-4.24,34,5.92,Medium,375.53,Rejected,Low,Moderate,Decentralized
+LOAN-0587,Agriculture,486.39,0.38,744,83.01,96,No,57.19,1.59,17,16.58,Low,407.79,Rejected,Low,Minimal,Community-driven
+LOAN-0588,Construction,400.38,1.74,507,45.58,37,Yes,70.03,17.96,17,7.24,Low,480.81,Rejected,Low,Severe,Community-driven
+LOAN-0589,Renewable Energy,227.61,2.99,338,129.51,95,No,36.33,3.0,21,29.44,Low,368.76,Rejected,Low,Severe,Decentralized
+LOAN-0590,Agriculture,169.3,1.19,424,150.92,38,Yes,42.31,16.48,29,13.22,High,165.26,Rejected,Low,Severe,Centralized
+LOAN-0591,Technology,224.34,2.14,576,140.63,66,Yes,18.65,24.2,15,28.2,High,224.02,Rejected,Medium,Severe,Centralized
+LOAN-0592,Technology,364.9,0.53,518,72.52,22,Yes,38.55,14.33,25,19.25,Low,391.19,Rejected,Low,Minimal,Decentralized
+LOAN-0593,Technology,203.56,1.97,528,194.69,77,No,50.44,-0.6,11,47.18,Medium,24.02,Rejected,Low,Moderate,Decentralized
+LOAN-0594,Technology,171.6,1.98,595,153.6,31,Yes,61.97,13.7,35,30.2,Medium,146.15,Rejected,Low,Moderate,Centralized
+LOAN-0595,Agriculture,38.1,2.71,682,56.62,2,Yes,55.67,20.86,8,49.35,Low,254.46,Approved,Low,Severe,Centralized
+LOAN-0596,Construction,175.21,0.24,695,54.67,6,Yes,91.64,6.63,26,23.33,High,446.91,Rejected,Low,Severe,Community-driven
+LOAN-0597,Construction,460.59,2.72,556,162.37,1,No,85.15,13.91,24,28.66,High,364.81,Rejected,Low,Severe,Centralized
+LOAN-0598,Construction,226.08,0.74,800,164.04,4,No,69.59,13.08,25,3.46,Medium,350.69,Rejected,Low,Moderate,Community-driven
+LOAN-0599,Construction,271.73,0.85,840,46.81,66,Yes,76.65,9.5,9,36.36,Medium,325.11,Rejected,Medium,Moderate,Decentralized
+LOAN-0600,Agriculture,369.35,2.92,336,199.28,85,No,36.85,24.97,17,42.14,Low,65.23,Approved,High,Severe,Community-driven
+LOAN-0601,Construction,317.11,0.72,762,99.87,27,No,11.59,9.08,19,7.93,Medium,471.57,Rejected,Low,Moderate,Decentralized
+LOAN-0602,Renewable Energy,174.01,0.62,438,12.2,62,Yes,19.87,-1.69,9,19.44,Low,473.26,Rejected,Low,Minimal,Decentralized
+LOAN-0603,Agriculture,483.8,2.81,399,182.36,20,Yes,54.99,20.66,25,8.92,Medium,224.94,Rejected,Low,Moderate,Decentralized
+LOAN-0604,Construction,238.68,0.36,567,176.25,96,No,71.02,9.74,21,12.13,Medium,283.32,Rejected,Medium,Moderate,Centralized
+LOAN-0605,Healthcare,218.21,2.06,660,26.72,42,Yes,49.46,21.63,19,1.86,Low,25.27,Rejected,Low,Severe,Decentralized
+LOAN-0606,Agriculture,87.51,2.86,431,138.56,51,Yes,50.16,13.03,36,38.33,High,377.92,Rejected,Medium,Severe,Centralized
+LOAN-0607,Construction,268.6,1.87,801,187.31,89,Yes,38.53,17.06,34,3.29,Medium,322.55,Rejected,High,Moderate,Centralized
+LOAN-0608,Construction,142.42,0.35,397,172.04,74,Yes,99.31,8.88,21,17.81,High,424.97,Rejected,Medium,Severe,Decentralized
+LOAN-0609,Agriculture,154.18,0.71,550,43.6,78,No,57.09,-2.17,21,10.19,Low,373.49,Rejected,Low,Minimal,Decentralized
+LOAN-0610,Technology,297.65,2.54,676,95.02,17,Yes,39.92,6.67,6,19.36,High,118.45,Approved,Low,Severe,Community-driven
+LOAN-0611,Construction,417.51,1.86,824,58.47,5,Yes,37.59,4.27,20,6.52,High,229.51,Rejected,Low,Severe,Centralized
+LOAN-0612,Renewable Energy,112.23,2.86,402,179.75,82,Yes,46.71,-2.98,30,41.6,High,396.01,Rejected,Low,Severe,Centralized
+LOAN-0613,Technology,419.21,2.93,777,112.64,61,No,13.5,23.77,36,9.02,Medium,451.97,Rejected,Medium,Moderate,Community-driven
+LOAN-0614,Agriculture,181.87,1.91,589,154.3,24,No,9.9,0.52,17,41.72,Medium,277.12,Rejected,Low,Moderate,Community-driven
+LOAN-0615,Technology,260.07,1.03,836,79.0,99,No,79.6,24.49,29,37.1,High,375.35,Rejected,High,Severe,Community-driven
+LOAN-0616,Technology,249.45,2.14,452,147.49,54,Yes,23.31,2.52,28,31.07,Low,298.24,Rejected,Low,Severe,Community-driven
+LOAN-0617,Agriculture,124.76,1.95,587,59.59,54,Yes,18.74,6.09,9,21.4,Medium,410.71,Rejected,Medium,Moderate,Centralized
+LOAN-0618,Healthcare,135.36,2.28,619,52.9,27,Yes,70.76,15.01,8,26.68,Medium,59.39,Rejected,Low,Moderate,Community-driven
+LOAN-0619,Healthcare,290.92,2.1,648,94.56,76,No,86.79,23.81,32,48.3,Low,56.39,Rejected,High,Severe,Centralized
+LOAN-0620,Healthcare,171.18,2.29,643,89.26,12,Yes,45.11,-1.7,24,22.46,Low,2.86,Rejected,Low,Severe,Decentralized
+LOAN-0621,Agriculture,345.23,1.37,712,191.56,55,No,17.63,-0.15,11,5.16,Medium,350.6,Rejected,Low,Moderate,Centralized
+LOAN-0622,Agriculture,390.82,0.17,561,133.81,54,No,19.15,0.97,30,37.4,Low,119.41,Rejected,Low,Minimal,Decentralized
+LOAN-0623,Construction,31.74,0.34,488,102.65,18,No,40.97,7.5,27,32.74,Medium,175.95,Rejected,Low,Moderate,Decentralized
+LOAN-0624,Healthcare,197.99,0.13,318,29.52,58,Yes,94.19,17.04,29,1.77,High,70.75,Rejected,Medium,Severe,Decentralized
+LOAN-0625,Construction,256.18,0.51,501,77.32,34,No,84.63,24.08,35,22.46,High,98.45,Rejected,Low,Severe,Community-driven
+LOAN-0626,Construction,249.91,2.8,783,108.31,21,Yes,81.14,-0.19,23,1.76,Medium,405.83,Rejected,Low,Moderate,Community-driven
+LOAN-0627,Construction,475.76,2.9,723,135.54,35,Yes,83.73,0.62,22,10.17,Low,52.49,Approved,Low,Severe,Community-driven
+LOAN-0628,Renewable Energy,59.45,1.36,373,25.69,32,No,96.82,-3.53,27,16.51,Medium,300.89,Rejected,Low,Moderate,Centralized
+LOAN-0629,Healthcare,406.76,1.48,753,101.59,43,No,43.19,18.94,23,27.07,High,27.37,Approved,Low,Severe,Centralized
+LOAN-0630,Technology,419.06,1.3,653,147.07,89,No,82.25,-1.81,21,19.88,High,85.11,Rejected,Low,Severe,Community-driven
+LOAN-0631,Agriculture,219.43,1.1,781,38.13,8,Yes,66.57,-3.97,20,31.42,Low,338.2,Rejected,Low,Severe,Decentralized
+LOAN-0632,Technology,182.86,1.13,780,86.08,61,Yes,64.56,5.79,8,5.63,Low,205.12,Rejected,Medium,Severe,Centralized
+LOAN-0633,Technology,342.25,0.5,487,156.14,9,No,29.82,9.57,11,42.07,High,479.32,Rejected,Low,Severe,Community-driven
+LOAN-0634,Agriculture,56.32,1.04,764,75.8,86,No,88.83,8.19,11,30.38,Medium,202.36,Rejected,Medium,Moderate,Community-driven
+LOAN-0635,Healthcare,311.34,0.73,633,13.04,21,Yes,98.62,8.81,12,43.03,Medium,116.27,Rejected,Low,Moderate,Decentralized
+LOAN-0636,Agriculture,307.71,1.74,313,150.52,72,No,52.34,3.28,17,1.84,Low,272.84,Rejected,Low,Severe,Decentralized
+LOAN-0637,Construction,320.15,1.91,369,61.48,81,No,95.84,13.46,29,3.97,Medium,94.49,Rejected,High,Moderate,Centralized
+LOAN-0638,Healthcare,303.0,0.7,452,98.17,12,Yes,25.12,22.71,35,36.63,Medium,41.86,Rejected,Low,Moderate,Community-driven
+LOAN-0639,Agriculture,81.98,2.27,380,26.83,88,No,48.26,8.4,35,9.63,Low,330.31,Rejected,Medium,Severe,Decentralized
+LOAN-0640,Construction,191.96,2.35,780,173.42,92,No,88.51,-4.21,22,3.96,High,452.83,Rejected,Low,Severe,Centralized
+LOAN-0641,Agriculture,24.33,0.92,530,153.03,91,Yes,13.79,4.11,21,14.26,Medium,68.64,Rejected,Low,Moderate,Centralized
+LOAN-0642,Agriculture,37.26,1.43,315,105.58,18,Yes,65.34,16.87,28,27.03,Medium,171.97,Approved,Low,Moderate,Decentralized
+LOAN-0643,Healthcare,235.51,1.01,555,68.83,5,Yes,88.0,24.45,19,16.56,High,258.56,Rejected,Low,Severe,Community-driven
+LOAN-0644,Healthcare,244.03,1.45,614,46.43,71,No,48.96,24.38,30,22.6,High,328.78,Rejected,High,Severe,Centralized
+LOAN-0645,Agriculture,100.88,2.64,426,98.5,99,No,71.65,16.99,6,44.04,Low,318.08,Rejected,High,Severe,Community-driven
+LOAN-0646,Agriculture,469.84,1.92,318,167.09,3,No,71.51,3.72,18,38.93,Low,49.43,Rejected,Low,Severe,Decentralized
+LOAN-0647,Renewable Energy,380.89,1.84,846,40.21,77,No,99.13,-3.81,25,39.18,High,481.94,Rejected,Low,Severe,Community-driven
+LOAN-0648,Technology,433.54,1.8,506,175.88,59,Yes,60.75,5.66,7,16.75,High,26.66,Rejected,Medium,Severe,Centralized
+LOAN-0649,Renewable Energy,112.59,0.87,619,190.48,9,Yes,88.67,-0.45,12,24.32,High,91.64,Rejected,Low,Severe,Community-driven
+LOAN-0650,Agriculture,179.02,2.04,837,15.49,17,Yes,9.15,15.59,35,5.28,Low,291.88,Rejected,Low,Severe,Decentralized
+LOAN-0651,Technology,40.8,1.94,774,119.18,53,Yes,71.69,19.51,32,1.16,Low,274.78,Rejected,Medium,Severe,Community-driven
+LOAN-0652,Technology,274.46,0.59,836,154.27,99,No,7.02,12.96,29,49.26,Medium,425.47,Rejected,High,Moderate,Centralized
+LOAN-0653,Healthcare,87.98,0.71,454,104.0,33,No,31.87,22.63,14,14.48,Medium,168.58,Rejected,Low,Moderate,Centralized
+LOAN-0654,Agriculture,315.68,0.94,661,123.78,43,No,30.11,13.55,16,6.02,Low,492.1,Rejected,Low,Minimal,Centralized
+LOAN-0655,Healthcare,224.33,2.49,845,196.47,100,Yes,5.81,-3.95,32,5.64,Medium,386.02,Rejected,Low,Moderate,Centralized
+LOAN-0656,Renewable Energy,365.35,2.91,706,44.97,36,No,62.78,4.33,21,35.65,Medium,201.7,Rejected,Low,Moderate,Decentralized
+LOAN-0657,Construction,178.5,1.2,385,195.0,91,Yes,26.2,18.96,29,8.58,High,212.12,Rejected,High,Severe,Centralized
+LOAN-0658,Construction,82.73,2.83,657,171.94,42,No,62.19,14.77,35,42.86,Medium,402.83,Rejected,Low,Moderate,Decentralized
+LOAN-0659,Renewable Energy,290.47,2.37,550,17.19,97,No,86.71,-1.26,20,9.44,High,330.23,Rejected,Low,Severe,Decentralized
+LOAN-0660,Renewable Energy,103.14,0.4,686,111.08,30,No,75.39,7.25,17,13.49,High,398.58,Rejected,Low,Severe,Decentralized
+LOAN-0661,Technology,92.22,0.45,306,45.7,28,No,7.66,19.89,33,24.3,Low,8.4,Rejected,Low,Minimal,Community-driven
+LOAN-0662,Technology,475.54,1.12,365,123.85,80,Yes,23.86,-0.76,7,40.73,High,355.03,Rejected,Low,Severe,Community-driven
+LOAN-0663,Healthcare,345.94,1.9,638,50.8,66,Yes,52.79,21.53,35,20.38,Low,26.18,Rejected,Medium,Severe,Decentralized
+LOAN-0664,Construction,340.56,0.67,781,130.84,77,Yes,96.37,24.87,34,10.95,Medium,133.18,Rejected,High,Moderate,Centralized
+LOAN-0665,Technology,163.93,2.95,846,163.85,89,No,36.71,15.92,17,39.74,Low,55.46,Rejected,High,Severe,Community-driven
+LOAN-0666,Healthcare,28.85,2.66,438,167.97,68,Yes,61.8,15.49,24,38.75,Medium,490.2,Rejected,Medium,Moderate,Centralized
+LOAN-0667,Healthcare,296.66,2.92,418,40.11,92,Yes,48.51,16.6,31,21.7,Low,337.11,Rejected,High,Severe,Community-driven
+LOAN-0668,Technology,216.23,2.48,352,131.24,17,Yes,56.69,9.9,22,31.41,Low,205.08,Approved,Low,Severe,Community-driven
+LOAN-0669,Healthcare,475.0,2.86,401,73.35,42,Yes,86.1,-4.5,30,24.27,Low,288.27,Rejected,Low,Severe,Decentralized
+LOAN-0670,Agriculture,262.63,2.89,355,18.05,51,No,65.13,16.94,9,33.06,Medium,336.54,Rejected,Medium,Moderate,Centralized
+LOAN-0671,Technology,284.7,0.57,400,62.49,77,No,17.78,-0.73,17,3.07,Low,369.56,Rejected,Low,Minimal,Community-driven
+LOAN-0672,Agriculture,409.62,1.32,462,4.3,66,No,94.96,2.42,26,33.28,Medium,88.37,Approved,Low,Moderate,Decentralized
+LOAN-0673,Renewable Energy,47.63,1.05,379,28.72,97,Yes,31.13,17.06,9,34.46,Medium,96.99,Rejected,High,Moderate,Centralized
+LOAN-0674,Agriculture,402.02,1.16,814,110.91,45,Yes,51.11,24.41,28,47.6,High,334.57,Rejected,Low,Severe,Decentralized
+LOAN-0675,Renewable Energy,167.88,2.74,377,42.52,60,Yes,9.98,16.8,18,46.91,Low,307.01,Rejected,Medium,Severe,Centralized
+LOAN-0676,Technology,77.07,0.69,385,136.56,64,Yes,9.32,21.98,24,34.72,High,9.53,Rejected,Medium,Severe,Centralized
+LOAN-0677,Renewable Energy,221.08,1.22,561,107.9,56,No,74.47,6.96,15,1.13,Medium,97.47,Rejected,Medium,Moderate,Community-driven
+LOAN-0678,Renewable Energy,38.08,2.93,549,123.71,51,Yes,93.17,-3.9,14,49.71,Medium,270.29,Rejected,Low,Moderate,Centralized
+LOAN-0679,Renewable Energy,307.02,0.18,576,146.83,49,Yes,54.11,15.8,25,10.18,High,167.76,Rejected,Low,Severe,Community-driven
+LOAN-0680,Healthcare,463.86,2.35,809,191.15,78,Yes,59.06,9.83,36,9.86,Medium,371.0,Rejected,Medium,Moderate,Decentralized
+LOAN-0681,Technology,274.41,1.89,704,190.14,68,Yes,14.9,-1.19,10,2.8,Low,101.43,Rejected,Low,Severe,Community-driven
+LOAN-0682,Agriculture,24.26,2.25,582,59.12,18,Yes,72.4,11.98,11,17.8,High,184.87,Rejected,Low,Severe,Community-driven
+LOAN-0683,Renewable Energy,188.47,2.34,784,101.14,43,No,93.78,16.18,25,2.31,Medium,47.05,Rejected,Low,Moderate,Decentralized
+LOAN-0684,Technology,248.77,2.28,438,80.48,98,No,54.71,2.0,20,39.47,Medium,467.08,Rejected,Low,Moderate,Community-driven
+LOAN-0685,Technology,231.04,1.39,583,138.31,49,No,57.1,-2.64,13,24.79,High,157.45,Rejected,Low,Severe,Decentralized
+LOAN-0686,Technology,482.77,1.58,382,38.59,59,Yes,95.54,11.86,29,37.83,Low,430.78,Rejected,Medium,Severe,Centralized
+LOAN-0687,Renewable Energy,222.75,1.44,625,8.05,90,Yes,39.9,3.01,6,1.46,Low,313.12,Rejected,Low,Severe,Centralized
+LOAN-0688,Healthcare,255.01,1.26,766,93.49,6,Yes,44.2,18.67,30,38.62,Medium,23.95,Rejected,Low,Moderate,Decentralized
+LOAN-0689,Technology,159.89,0.89,554,101.44,59,Yes,63.96,20.56,7,28.23,Low,353.4,Rejected,Medium,Minimal,Decentralized
+LOAN-0690,Agriculture,27.04,0.51,558,67.38,64,No,27.67,13.09,28,49.52,Low,141.64,Rejected,Medium,Minimal,Community-driven
+LOAN-0691,Agriculture,140.1,2.62,480,179.97,93,Yes,65.78,1.81,23,27.27,Medium,186.18,Rejected,Low,Moderate,Community-driven
+LOAN-0692,Construction,454.08,1.58,356,32.71,88,No,61.93,22.7,12,41.85,High,127.18,Rejected,High,Severe,Community-driven
+LOAN-0693,Technology,413.41,0.75,337,196.83,44,Yes,39.09,9.13,17,46.49,Low,92.35,Rejected,Low,Minimal,Centralized
+LOAN-0694,Renewable Energy,450.95,2.44,693,46.05,96,Yes,96.1,14.16,9,21.39,Low,194.69,Rejected,High,Severe,Community-driven
+LOAN-0695,Healthcare,321.24,1.79,827,34.52,2,Yes,42.78,13.08,24,24.6,Low,314.68,Rejected,Low,Severe,Community-driven
+LOAN-0696,Construction,289.71,1.97,806,3.18,69,Yes,59.57,22.57,8,46.1,High,249.9,Rejected,Medium,Severe,Community-driven
+LOAN-0697,Construction,395.72,1.78,500,142.47,69,Yes,21.51,-3.44,18,41.2,Medium,84.51,Rejected,Low,Moderate,Decentralized
+LOAN-0698,Renewable Energy,496.84,2.45,341,34.95,100,Yes,49.13,17.84,20,13.83,Low,300.2,Rejected,High,Severe,Community-driven
+LOAN-0699,Healthcare,449.06,1.66,359,94.41,60,Yes,8.35,18.04,21,8.8,Low,346.39,Rejected,Medium,Severe,Centralized
+LOAN-0700,Construction,209.23,1.33,634,127.76,66,Yes,51.69,0.3,17,42.41,High,301.53,Rejected,Low,Severe,Community-driven
+LOAN-0701,Technology,79.27,2.23,618,171.44,80,Yes,13.88,19.7,24,43.32,Medium,44.38,Rejected,High,Moderate,Decentralized
+LOAN-0702,Agriculture,481.85,1.16,412,70.91,6,Yes,87.87,-2.1,30,13.61,Low,254.89,Approved,Low,Severe,Decentralized
+LOAN-0703,Renewable Energy,417.21,1.36,409,47.67,90,Yes,16.88,1.18,19,13.84,High,260.11,Rejected,Low,Severe,Centralized
+LOAN-0704,Renewable Energy,245.05,0.25,739,175.79,38,No,7.64,5.96,32,18.29,High,274.94,Rejected,Low,Severe,Community-driven
+LOAN-0705,Healthcare,222.8,1.47,705,162.35,3,Yes,47.46,11.36,32,47.82,Medium,260.16,Rejected,Low,Moderate,Centralized
+LOAN-0706,Technology,186.35,2.53,787,121.69,68,No,10.93,13.02,16,20.97,Low,125.77,Rejected,Medium,Severe,Centralized
+LOAN-0707,Technology,367.72,2.62,637,13.99,17,Yes,89.16,-0.95,14,7.06,Medium,335.89,Rejected,Low,Moderate,Decentralized
+LOAN-0708,Renewable Energy,66.68,1.52,840,131.42,13,No,27.43,17.23,22,47.51,High,139.36,Rejected,Low,Severe,Centralized
+LOAN-0709,Technology,42.6,2.42,517,198.51,78,Yes,87.44,9.24,26,31.68,High,48.19,Approved,Medium,Severe,Decentralized
+LOAN-0710,Construction,310.78,1.56,801,139.73,49,Yes,81.55,13.77,30,1.14,Medium,433.84,Rejected,Low,Moderate,Community-driven
+LOAN-0711,Construction,234.57,1.35,812,11.3,25,Yes,83.47,22.11,31,17.46,High,239.36,Rejected,Low,Severe,Centralized
+LOAN-0712,Technology,151.68,0.86,689,55.89,7,No,27.18,10.82,27,10.95,High,134.6,Approved,Low,Severe,Centralized
+LOAN-0713,Agriculture,191.84,0.81,315,121.07,4,No,61.57,24.77,32,46.41,Medium,263.99,Rejected,Low,Moderate,Decentralized
+LOAN-0714,Agriculture,496.06,1.81,589,23.9,48,No,45.84,18.22,17,42.09,Low,361.58,Rejected,Low,Severe,Decentralized
+LOAN-0715,Healthcare,286.38,1.79,494,81.54,41,Yes,23.8,3.99,36,26.38,Medium,87.9,Rejected,Low,Moderate,Centralized
+LOAN-0716,Renewable Energy,245.17,0.96,753,159.28,14,No,60.85,15.49,17,7.36,Low,348.17,Rejected,Low,Minimal,Centralized
+LOAN-0717,Agriculture,413.39,1.12,703,38.83,16,No,64.26,15.16,12,31.97,High,338.59,Rejected,Low,Severe,Community-driven
+LOAN-0718,Healthcare,187.41,0.81,418,126.14,88,Yes,90.13,21.33,35,17.14,Low,349.61,Rejected,High,Minimal,Decentralized
+LOAN-0719,Renewable Energy,192.27,0.19,523,174.23,13,Yes,30.3,2.7,19,2.28,Medium,336.84,Approved,Low,Moderate,Community-driven
+LOAN-0720,Healthcare,133.41,0.86,794,161.71,4,No,37.8,8.45,36,6.35,High,329.97,Rejected,Low,Severe,Community-driven
+LOAN-0721,Agriculture,333.4,1.68,310,141.2,60,Yes,84.57,9.94,13,34.43,Low,353.77,Rejected,Medium,Severe,Centralized
+LOAN-0722,Technology,269.07,2.35,317,89.63,79,No,18.83,11.27,21,45.4,High,264.98,Rejected,High,Severe,Centralized
+LOAN-0723,Healthcare,383.86,2.82,439,32.85,78,Yes,44.77,13.17,31,30.53,High,92.37,Rejected,High,Severe,Decentralized
+LOAN-0724,Renewable Energy,37.23,2.2,300,74.9,61,Yes,62.98,19.32,27,44.68,High,65.83,Rejected,Medium,Severe,Centralized
+LOAN-0725,Agriculture,364.02,0.37,435,73.06,49,No,50.86,10.75,34,45.68,Medium,274.45,Rejected,Low,Moderate,Decentralized
+LOAN-0726,Agriculture,108.05,1.67,360,20.84,66,No,59.47,19.66,9,25.08,Low,301.62,Rejected,Medium,Severe,Decentralized
+LOAN-0727,Agriculture,22.57,0.71,744,61.96,14,Yes,13.89,4.04,26,34.15,Low,6.05,Rejected,Low,Minimal,Decentralized
+LOAN-0728,Technology,232.02,2.51,585,63.39,51,Yes,49.2,23.24,19,43.99,Low,159.0,Rejected,Medium,Severe,Decentralized
+LOAN-0729,Technology,88.61,0.92,309,195.49,22,No,63.66,3.73,8,21.42,Low,491.82,Rejected,Low,Minimal,Centralized
+LOAN-0730,Healthcare,98.62,0.14,846,162.99,39,No,51.58,20.41,21,40.34,High,354.51,Rejected,Low,Severe,Decentralized
+LOAN-0731,Technology,83.79,1.65,706,148.68,83,Yes,47.06,0.09,22,40.52,Low,65.87,Rejected,Low,Severe,Centralized
+LOAN-0732,Healthcare,222.73,0.33,745,177.48,3,Yes,84.04,-1.43,27,2.83,High,245.82,Rejected,Low,Severe,Decentralized
+LOAN-0733,Agriculture,286.25,2.36,782,68.72,1,Yes,88.61,2.7,35,30.9,Medium,82.98,Rejected,Low,Moderate,Community-driven
+LOAN-0734,Technology,266.37,0.31,407,187.41,71,Yes,69.93,11.86,32,19.72,Low,300.15,Rejected,High,Minimal,Community-driven
+LOAN-0735,Healthcare,334.45,0.62,479,43.95,61,Yes,15.7,14.46,15,7.81,Low,187.69,Rejected,Medium,Minimal,Community-driven
+LOAN-0736,Technology,450.46,1.91,504,156.15,36,No,10.1,22.16,7,16.03,High,438.12,Rejected,Low,Severe,Centralized
+LOAN-0737,Technology,206.18,2.44,832,98.24,59,No,18.03,10.83,29,16.08,Medium,466.51,Rejected,Medium,Moderate,Decentralized
+LOAN-0738,Agriculture,301.81,1.74,493,102.25,97,Yes,89.32,5.09,29,24.64,High,444.7,Rejected,Medium,Severe,Decentralized
+LOAN-0739,Technology,335.98,1.06,423,60.48,24,Yes,35.93,5.39,6,38.69,Low,467.04,Approved,Low,Severe,Centralized
+LOAN-0740,Agriculture,329.48,2.9,388,105.85,42,Yes,47.39,17.14,27,30.18,High,68.75,Rejected,Low,Severe,Community-driven
+LOAN-0741,Construction,331.35,0.31,475,48.43,96,Yes,43.07,17.53,26,48.17,Medium,364.08,Rejected,High,Moderate,Community-driven
+LOAN-0742,Construction,371.75,0.49,812,162.29,7,No,87.9,19.81,34,36.43,Medium,191.61,Rejected,Low,Moderate,Decentralized
+LOAN-0743,Agriculture,305.75,2.23,631,174.02,21,Yes,10.45,-2.89,30,16.47,Medium,403.49,Rejected,Low,Moderate,Community-driven
+LOAN-0744,Healthcare,45.81,2.96,346,182.27,2,No,45.62,-0.47,16,2.87,Low,252.96,Rejected,Low,Severe,Centralized
+LOAN-0745,Agriculture,111.57,2.84,396,48.2,21,Yes,67.13,4.77,30,16.79,High,228.9,Rejected,Low,Severe,Centralized
+LOAN-0746,Technology,203.56,0.9,496,75.55,49,Yes,84.42,24.61,9,35.65,Low,136.89,Rejected,Low,Minimal,Community-driven
+LOAN-0747,Agriculture,175.98,1.34,615,194.01,32,Yes,48.65,-0.18,10,14.53,High,377.5,Rejected,Low,Severe,Decentralized
+LOAN-0748,Renewable Energy,196.38,0.88,489,171.42,98,No,26.55,11.22,14,41.03,High,434.58,Rejected,High,Severe,Decentralized
+LOAN-0749,Technology,307.6,2.18,781,143.44,84,Yes,39.16,10.74,8,41.73,High,98.29,Rejected,High,Severe,Decentralized
+LOAN-0750,Renewable Energy,97.14,1.91,596,94.32,6,Yes,10.2,4.42,12,43.24,High,15.67,Rejected,Low,Severe,Centralized
+LOAN-0751,Renewable Energy,127.42,0.62,565,21.63,73,No,24.67,7.79,22,14.22,High,432.59,Rejected,Medium,Severe,Decentralized
+LOAN-0752,Healthcare,68.77,1.74,407,169.21,84,No,52.62,0.67,32,20.21,Medium,484.47,Rejected,Low,Moderate,Centralized
+LOAN-0753,Agriculture,358.84,0.7,333,81.52,39,Yes,11.81,22.8,14,47.71,High,123.04,Rejected,Low,Severe,Decentralized
+LOAN-0754,Construction,105.42,2.79,791,176.98,32,No,97.92,0.11,15,34.62,Medium,400.43,Rejected,Low,Moderate,Centralized
+LOAN-0755,Agriculture,22.65,2.36,499,81.3,47,No,99.87,2.95,30,46.39,High,55.0,Rejected,Low,Severe,Decentralized
+LOAN-0756,Renewable Energy,315.52,2.21,625,22.61,35,No,9.07,0.84,17,21.98,High,180.3,Rejected,Low,Severe,Centralized
+LOAN-0757,Agriculture,228.06,2.45,499,153.78,21,No,13.91,20.27,34,38.52,High,377.18,Rejected,Low,Severe,Community-driven
+LOAN-0758,Agriculture,161.68,1.94,724,69.79,99,Yes,5.04,-0.89,6,27.6,Medium,394.16,Rejected,Low,Moderate,Centralized
+LOAN-0759,Construction,241.46,0.67,750,191.45,21,Yes,90.64,2.96,16,47.88,Low,446.6,Rejected,Low,Minimal,Centralized
+LOAN-0760,Construction,418.12,1.59,481,47.57,85,Yes,12.05,16.72,27,28.61,High,245.91,Approved,High,Severe,Community-driven
+LOAN-0761,Agriculture,452.33,2.71,710,189.99,11,No,47.03,-0.2,35,18.83,High,481.67,Rejected,Low,Severe,Decentralized
+LOAN-0762,Construction,495.94,1.51,639,190.04,4,Yes,54.59,24.3,9,35.35,Low,179.38,Rejected,Low,Severe,Decentralized
+LOAN-0763,Healthcare,166.89,0.78,650,107.42,34,Yes,24.95,5.15,7,16.58,Medium,337.26,Rejected,Low,Moderate,Decentralized
+LOAN-0764,Healthcare,488.68,0.86,475,136.66,5,Yes,87.09,19.28,27,47.35,Medium,318.16,Rejected,Low,Moderate,Decentralized
+LOAN-0765,Agriculture,182.06,2.08,537,98.73,58,Yes,83.3,24.25,34,30.06,High,332.17,Rejected,Medium,Severe,Decentralized
+LOAN-0766,Healthcare,128.83,2.84,571,146.37,82,Yes,49.86,3.09,22,22.42,High,304.92,Rejected,Low,Severe,Centralized
+LOAN-0767,Technology,67.85,2.26,460,28.0,62,No,62.79,11.47,33,39.84,High,453.03,Rejected,Medium,Severe,Centralized
+LOAN-0768,Renewable Energy,16.31,2.48,592,102.57,67,No,49.58,8.02,11,12.64,High,91.95,Rejected,Medium,Severe,Decentralized
+LOAN-0769,Agriculture,234.61,2.43,714,119.11,35,Yes,31.09,12.49,22,37.12,High,458.35,Rejected,Low,Severe,Centralized
+LOAN-0770,Construction,302.0,2.26,359,55.39,82,Yes,56.22,2.76,36,30.37,High,19.53,Approved,Low,Severe,Centralized
+LOAN-0771,Renewable Energy,471.14,1.84,637,158.95,62,No,28.77,1.55,29,17.46,Medium,293.19,Rejected,Low,Moderate,Decentralized
+LOAN-0772,Construction,346.4,2.18,414,58.54,46,Yes,85.61,7.04,25,26.21,Medium,239.51,Rejected,Low,Moderate,Centralized
+LOAN-0773,Agriculture,335.64,2.84,663,29.99,70,Yes,30.81,13.01,35,25.57,Medium,404.73,Rejected,Medium,Moderate,Centralized
+LOAN-0774,Construction,216.99,0.58,630,159.43,59,No,14.07,17.83,25,47.14,High,354.67,Rejected,Medium,Severe,Community-driven
+LOAN-0775,Renewable Energy,321.95,0.51,577,128.15,1,Yes,17.57,23.86,14,39.88,High,70.27,Rejected,Low,Severe,Decentralized
+LOAN-0776,Agriculture,35.62,1.86,384,84.53,59,Yes,59.39,12.51,6,37.6,Medium,422.86,Rejected,Medium,Moderate,Centralized
+LOAN-0777,Healthcare,288.44,0.84,786,79.43,32,Yes,84.19,6.3,34,14.67,Low,285.56,Rejected,Low,Minimal,Centralized
+LOAN-0778,Technology,35.12,1.73,685,153.32,15,Yes,35.5,-2.79,35,44.37,Low,99.02,Rejected,Low,Severe,Centralized
+LOAN-0779,Construction,63.11,0.74,438,197.79,49,Yes,15.44,20.17,29,23.73,High,410.29,Rejected,Low,Severe,Community-driven
+LOAN-0780,Agriculture,304.15,1.62,757,84.44,12,Yes,61.03,13.72,15,10.83,High,195.16,Rejected,Low,Severe,Centralized
+LOAN-0781,Healthcare,357.87,2.29,775,91.02,56,Yes,73.09,5.25,30,39.24,Low,370.25,Rejected,Medium,Severe,Centralized
+LOAN-0782,Healthcare,449.47,2.92,519,54.42,71,Yes,89.25,14.12,25,38.39,Low,481.45,Rejected,High,Severe,Decentralized
+LOAN-0783,Healthcare,420.86,1.28,762,124.88,39,Yes,30.06,15.39,17,11.55,High,122.32,Rejected,Low,Severe,Community-driven
+LOAN-0784,Construction,357.07,0.99,388,87.14,35,Yes,74.83,-0.73,32,43.41,Medium,160.96,Rejected,Low,Moderate,Centralized
+LOAN-0785,Healthcare,89.75,1.87,376,15.1,28,No,85.15,15.6,22,49.32,Low,402.56,Rejected,Low,Severe,Decentralized
+LOAN-0786,Healthcare,86.88,2.59,444,92.02,82,Yes,63.58,12.31,29,3.8,High,153.73,Rejected,High,Severe,Centralized
+LOAN-0787,Technology,367.67,0.51,784,16.46,40,Yes,6.71,12.31,15,37.72,Medium,186.38,Rejected,Low,Moderate,Decentralized
+LOAN-0788,Construction,297.17,0.44,349,153.76,47,Yes,27.9,17.68,17,49.82,Low,156.01,Approved,Low,Minimal,Community-driven
+LOAN-0789,Construction,143.51,1.41,548,118.7,63,Yes,66.09,12.82,19,12.6,Low,447.55,Rejected,Medium,Severe,Centralized
+LOAN-0790,Renewable Energy,495.08,2.99,508,18.09,5,Yes,56.02,6.04,28,18.14,Low,351.53,Rejected,Low,Severe,Decentralized
+LOAN-0791,Technology,383.23,1.02,343,157.86,31,Yes,50.06,1.56,17,38.24,High,358.64,Rejected,Low,Severe,Decentralized
+LOAN-0792,Construction,128.74,1.03,746,63.18,86,No,50.18,0.32,21,12.63,Medium,275.61,Rejected,Low,Moderate,Decentralized
+LOAN-0793,Construction,246.32,2.52,385,43.1,41,Yes,74.99,1.18,24,41.01,Medium,459.76,Rejected,Low,Moderate,Centralized
+LOAN-0794,Construction,98.62,2.06,697,198.17,49,No,21.09,-3.9,9,19.68,High,85.94,Rejected,Low,Severe,Decentralized
+LOAN-0795,Agriculture,331.92,1.64,844,154.04,88,No,51.47,22.06,17,24.39,High,425.34,Rejected,High,Severe,Centralized
+LOAN-0796,Agriculture,324.52,0.66,741,72.69,36,No,92.99,19.91,6,18.33,High,346.34,Rejected,Low,Severe,Decentralized
+LOAN-0797,Healthcare,122.11,2.77,468,49.75,80,No,18.07,9.62,34,46.16,Medium,348.13,Rejected,Medium,Moderate,Decentralized
+LOAN-0798,Healthcare,217.35,1.8,627,138.9,34,Yes,39.56,19.11,16,24.4,Low,270.87,Rejected,Low,Severe,Decentralized
+LOAN-0799,Technology,137.31,0.34,687,46.88,48,No,14.32,24.28,28,34.93,High,429.41,Rejected,Low,Severe,Centralized
+LOAN-0800,Construction,327.53,0.12,361,194.28,37,No,84.26,-0.99,7,32.42,High,353.48,Approved,Low,Severe,Community-driven
+LOAN-0801,Healthcare,464.81,1.12,684,31.46,64,No,93.11,4.14,36,2.3,Low,404.44,Rejected,Low,Severe,Centralized
+LOAN-0802,Technology,17.82,1.19,302,26.6,75,Yes,12.9,7.94,28,18.92,High,374.08,Rejected,Medium,Severe,Decentralized
+LOAN-0803,Renewable Energy,428.97,0.17,681,199.45,19,Yes,92.36,0.44,10,45.68,Medium,192.11,Rejected,Low,Moderate,Centralized
+LOAN-0804,Agriculture,471.95,0.37,338,15.84,77,No,22.96,19.22,24,31.19,High,281.71,Rejected,High,Severe,Community-driven
+LOAN-0805,Technology,494.1,1.71,843,80.22,34,No,7.9,-2.62,11,48.88,High,104.36,Rejected,Low,Severe,Centralized
+LOAN-0806,Agriculture,161.12,0.35,376,2.9,29,Yes,42.83,20.79,35,16.86,Low,365.08,Rejected,Low,Minimal,Centralized
+LOAN-0807,Construction,263.61,0.18,753,174.62,24,No,61.93,-3.87,29,9.59,Medium,462.22,Rejected,Low,Moderate,Community-driven
+LOAN-0808,Agriculture,99.8,0.38,606,127.85,34,Yes,30.74,13.96,29,40.49,High,46.22,Rejected,Low,Severe,Decentralized
+LOAN-0809,Renewable Energy,50.26,2.35,593,169.74,76,No,77.59,7.79,28,26.94,Low,180.73,Rejected,Medium,Severe,Decentralized
+LOAN-0810,Healthcare,329.67,1.04,634,195.26,2,No,46.3,22.16,6,22.59,High,5.13,Rejected,Low,Severe,Decentralized
+LOAN-0811,Agriculture,91.3,0.29,661,199.8,64,Yes,88.68,0.05,29,16.33,High,499.89,Rejected,Low,Severe,Centralized
+LOAN-0812,Healthcare,29.2,2.3,609,4.96,84,No,48.96,18.37,9,10.84,Medium,216.6,Rejected,High,Moderate,Community-driven
+LOAN-0813,Renewable Energy,141.35,0.46,320,28.01,13,No,15.19,15.4,15,2.21,High,91.9,Rejected,Low,Severe,Decentralized
+LOAN-0814,Construction,134.7,2.26,776,25.79,91,No,16.68,0.34,10,11.78,Medium,169.05,Rejected,Low,Moderate,Community-driven
+LOAN-0815,Construction,425.85,2.64,494,60.38,14,Yes,97.22,12.81,23,15.81,High,234.81,Rejected,Low,Severe,Centralized
+LOAN-0816,Healthcare,119.92,2.28,741,102.23,63,Yes,10.79,23.23,27,3.19,Low,298.49,Rejected,Medium,Severe,Decentralized
+LOAN-0817,Healthcare,129.85,0.84,301,136.82,93,Yes,69.46,17.68,17,35.65,Low,72.94,Rejected,High,Minimal,Community-driven
+LOAN-0818,Agriculture,428.32,1.49,437,116.66,63,No,57.47,0.45,13,44.29,High,396.02,Rejected,Low,Severe,Decentralized
+LOAN-0819,Agriculture,156.72,1.44,649,53.84,25,Yes,10.93,-0.43,31,19.27,Low,330.57,Rejected,Low,Severe,Centralized
+LOAN-0820,Healthcare,376.15,1.91,440,116.68,31,No,61.1,20.42,11,18.05,Medium,146.92,Rejected,Low,Moderate,Decentralized
+LOAN-0821,Agriculture,176.5,0.76,443,54.65,24,Yes,25.97,19.97,10,19.89,Medium,472.88,Rejected,Low,Moderate,Decentralized
+LOAN-0822,Technology,308.71,2.72,540,87.58,81,Yes,80.57,-4.44,28,40.36,High,399.29,Rejected,Low,Severe,Community-driven
+LOAN-0823,Agriculture,243.56,0.89,398,42.78,27,Yes,98.57,17.31,6,29.09,Medium,311.8,Rejected,Low,Moderate,Community-driven
+LOAN-0824,Renewable Energy,388.98,0.88,803,15.87,43,No,46.29,6.66,32,22.02,Medium,244.19,Approved,Low,Moderate,Centralized
+LOAN-0825,Agriculture,92.18,0.54,563,67.86,42,Yes,76.18,10.69,13,40.91,Medium,148.2,Rejected,Low,Moderate,Community-driven
+LOAN-0826,Technology,220.06,1.6,712,8.83,1,No,98.84,20.83,19,49.93,High,38.31,Rejected,Low,Severe,Centralized
+LOAN-0827,Healthcare,143.51,1.25,524,167.45,32,Yes,20.2,15.65,15,40.8,Low,129.18,Rejected,Low,Severe,Community-driven
+LOAN-0828,Renewable Energy,449.7,0.52,703,64.51,79,No,30.41,1.95,14,17.3,High,474.41,Rejected,Low,Severe,Centralized
+LOAN-0829,Renewable Energy,135.27,1.04,716,184.22,23,Yes,5.13,19.28,17,35.5,High,431.94,Rejected,Low,Severe,Decentralized
+LOAN-0830,Agriculture,491.71,2.47,664,134.97,27,No,58.19,3.84,36,26.66,High,63.47,Rejected,Low,Severe,Centralized
+LOAN-0831,Renewable Energy,412.76,1.95,806,74.88,22,Yes,27.41,-3.98,18,12.89,High,489.33,Rejected,Low,Severe,Centralized
+LOAN-0832,Healthcare,363.29,1.48,815,35.88,62,Yes,33.68,6.42,22,5.06,High,109.15,Rejected,Medium,Severe,Decentralized
+LOAN-0833,Healthcare,22.72,0.68,763,6.41,29,No,90.4,21.03,12,34.79,Medium,106.1,Rejected,Low,Moderate,Decentralized
+LOAN-0834,Agriculture,279.64,1.69,759,84.36,51,Yes,12.36,16.44,12,15.95,High,75.22,Rejected,Medium,Severe,Community-driven
+LOAN-0835,Renewable Energy,483.39,2.34,780,179.79,99,No,71.16,4.18,16,1.73,High,53.58,Rejected,Low,Severe,Decentralized
+LOAN-0836,Healthcare,364.89,1.92,544,140.61,81,Yes,82.9,16.38,12,38.68,High,213.66,Rejected,High,Severe,Decentralized
+LOAN-0837,Construction,177.8,1.96,626,170.87,20,No,19.76,15.75,10,19.89,Medium,250.66,Rejected,Low,Moderate,Community-driven
+LOAN-0838,Healthcare,164.59,2.14,597,132.97,46,Yes,66.6,24.91,23,21.19,Low,26.59,Rejected,Low,Severe,Community-driven
+LOAN-0839,Construction,137.11,2.66,605,117.84,23,No,48.55,4.8,34,6.77,High,71.06,Rejected,Low,Severe,Centralized
+LOAN-0840,Agriculture,274.99,1.15,342,73.38,13,No,34.06,10.98,24,45.22,Medium,4.29,Rejected,Low,Moderate,Community-driven
+LOAN-0841,Technology,172.04,1.82,565,114.31,97,Yes,45.9,21.81,15,20.32,High,252.05,Rejected,High,Severe,Decentralized
+LOAN-0842,Renewable Energy,148.65,0.35,618,138.22,49,No,9.86,22.67,22,40.68,Low,361.25,Rejected,Low,Minimal,Decentralized
+LOAN-0843,Construction,294.15,2.87,375,195.31,46,No,18.57,4.84,26,1.14,High,436.44,Rejected,Low,Severe,Community-driven
+LOAN-0844,Technology,438.47,2.13,616,125.73,75,Yes,51.53,14.11,27,29.23,Low,117.02,Rejected,High,Severe,Community-driven
+LOAN-0845,Renewable Energy,448.02,1.7,474,62.04,66,No,10.35,24.26,8,15.94,High,257.36,Rejected,Medium,Severe,Centralized
+LOAN-0846,Renewable Energy,356.74,2.16,701,153.92,55,No,58.36,2.91,6,46.62,Medium,105.37,Rejected,Low,Moderate,Community-driven
+LOAN-0847,Construction,479.73,2.15,331,183.99,56,No,22.71,6.29,17,21.8,High,296.98,Rejected,Medium,Severe,Centralized
+LOAN-0848,Healthcare,97.46,0.38,814,147.79,78,No,19.14,20.83,26,13.01,Low,385.92,Rejected,High,Minimal,Community-driven
+LOAN-0849,Agriculture,274.6,2.93,540,65.16,28,Yes,55.44,6.08,25,5.54,High,227.59,Rejected,Low,Severe,Decentralized
+LOAN-0850,Technology,32.37,1.34,451,107.96,26,No,20.78,14.62,32,30.81,Low,160.6,Rejected,Low,Severe,Decentralized
+LOAN-0851,Renewable Energy,242.54,1.68,771,60.95,17,No,32.01,20.97,9,35.86,Medium,35.41,Approved,Low,Moderate,Community-driven
+LOAN-0852,Renewable Energy,302.92,1.81,475,81.38,18,No,80.65,11.16,13,13.25,Medium,128.09,Rejected,Low,Moderate,Community-driven
+LOAN-0853,Agriculture,71.74,0.62,849,20.1,28,Yes,26.7,-3.84,11,10.09,Medium,227.19,Approved,Low,Moderate,Community-driven
+LOAN-0854,Renewable Energy,465.9,0.58,523,153.52,26,Yes,77.75,21.29,18,24.08,Medium,368.53,Rejected,Low,Moderate,Centralized
+LOAN-0855,Technology,425.01,0.2,761,183.26,6,No,39.79,-0.36,22,11.92,High,300.01,Rejected,Low,Severe,Community-driven
+LOAN-0856,Technology,193.82,2.9,610,182.28,69,Yes,11.66,13.54,19,3.94,Low,28.0,Rejected,Medium,Severe,Centralized
+LOAN-0857,Construction,308.39,2.7,336,36.2,64,No,97.93,24.94,27,23.8,High,343.38,Rejected,Medium,Severe,Centralized
+LOAN-0858,Agriculture,37.78,0.14,421,17.89,11,Yes,85.1,10.48,31,2.72,Medium,379.6,Rejected,Low,Moderate,Decentralized
+LOAN-0859,Renewable Energy,280.3,0.14,754,167.43,95,Yes,52.19,4.15,10,17.54,High,462.27,Rejected,Low,Severe,Centralized
+LOAN-0860,Technology,374.16,2.06,736,46.11,48,No,82.47,19.62,32,23.48,Low,381.35,Rejected,Low,Severe,Centralized
+LOAN-0861,Renewable Energy,190.04,1.07,838,18.15,92,No,64.56,23.25,13,38.44,Medium,225.49,Rejected,High,Moderate,Centralized
+LOAN-0862,Technology,26.26,0.25,478,60.5,42,Yes,46.37,4.03,28,42.64,Medium,243.96,Rejected,Low,Moderate,Community-driven
+LOAN-0863,Technology,174.42,1.16,680,77.06,87,No,82.47,2.59,26,7.21,Medium,139.2,Rejected,Low,Moderate,Community-driven
+LOAN-0864,Healthcare,29.53,1.28,446,32.58,56,No,30.53,10.87,11,45.92,High,276.81,Rejected,Medium,Severe,Centralized
+LOAN-0865,Construction,54.59,0.46,535,89.78,29,No,8.83,5.92,16,11.22,Medium,51.67,Rejected,Low,Moderate,Decentralized
+LOAN-0866,Renewable Energy,35.9,2.86,356,69.32,82,Yes,6.42,14.69,16,17.64,High,404.32,Rejected,High,Severe,Decentralized
+LOAN-0867,Healthcare,474.66,2.64,334,59.7,54,No,54.52,0.06,23,24.82,Low,465.25,Approved,Low,Severe,Centralized
+LOAN-0868,Construction,262.99,1.97,313,117.34,75,No,77.42,13.23,17,7.67,Low,490.92,Rejected,High,Severe,Centralized
+LOAN-0869,Construction,379.66,0.42,844,136.28,2,No,76.24,21.96,20,38.22,Low,325.35,Approved,Low,Minimal,Centralized
+LOAN-0870,Healthcare,365.71,0.48,725,66.56,78,Yes,12.22,-3.18,30,19.47,Medium,454.07,Rejected,Low,Moderate,Decentralized
+LOAN-0871,Agriculture,426.22,2.97,564,11.33,82,No,19.33,21.91,20,14.11,Low,388.43,Rejected,High,Severe,Centralized
+LOAN-0872,Renewable Energy,250.75,0.76,704,145.53,1,No,82.71,10.21,6,31.31,High,183.93,Rejected,Low,Severe,Decentralized
+LOAN-0873,Construction,228.41,1.63,338,121.26,5,No,94.54,12.73,27,28.76,Medium,175.76,Rejected,Low,Moderate,Centralized
+LOAN-0874,Renewable Energy,342.8,0.31,838,71.98,22,No,41.06,23.22,29,8.46,Medium,293.43,Rejected,Low,Moderate,Centralized
+LOAN-0875,Construction,80.33,0.17,347,194.98,41,No,73.89,1.75,29,43.49,Low,175.54,Rejected,Low,Minimal,Decentralized
+LOAN-0876,Construction,128.19,0.66,830,114.05,30,No,84.27,-4.14,29,26.5,Medium,370.59,Rejected,Low,Moderate,Decentralized
+LOAN-0877,Renewable Energy,379.43,2.03,693,164.11,50,Yes,49.83,20.73,15,27.5,Low,242.65,Rejected,Low,Severe,Community-driven
+LOAN-0878,Construction,129.25,1.99,420,8.61,54,No,74.24,-2.64,35,26.9,High,183.34,Rejected,Low,Severe,Centralized
+LOAN-0879,Agriculture,66.76,2.26,848,148.49,5,No,27.35,11.4,33,42.28,High,348.9,Rejected,Low,Severe,Centralized
+LOAN-0880,Technology,258.39,2.05,550,161.55,69,Yes,59.39,1.53,22,20.15,Medium,423.86,Rejected,Low,Moderate,Decentralized
+LOAN-0881,Construction,116.73,0.49,821,116.15,71,Yes,97.49,-4.63,18,9.43,High,174.39,Rejected,Low,Severe,Community-driven
+LOAN-0882,Healthcare,246.57,1.65,646,175.8,51,Yes,9.71,9.88,30,13.18,High,32.96,Approved,Medium,Severe,Centralized
+LOAN-0883,Construction,283.74,0.69,389,76.69,15,Yes,55.95,5.92,29,49.28,Medium,294.94,Rejected,Low,Moderate,Decentralized
+LOAN-0884,Technology,384.2,2.0,674,137.61,15,Yes,37.52,24.96,19,49.99,Low,178.52,Rejected,Low,Severe,Centralized
+LOAN-0885,Agriculture,264.18,0.92,554,96.93,82,Yes,31.88,19.74,17,38.55,High,480.28,Rejected,High,Severe,Centralized
+LOAN-0886,Agriculture,52.59,1.43,551,150.76,17,No,21.26,15.53,31,9.34,Low,417.3,Rejected,Low,Severe,Centralized
+LOAN-0887,Healthcare,91.7,1.42,624,111.72,31,No,89.65,-3.49,14,7.9,Low,358.82,Rejected,Low,Severe,Centralized
+LOAN-0888,Renewable Energy,417.51,2.84,353,152.38,4,Yes,90.09,-3.38,27,6.14,Medium,90.43,Rejected,Low,Moderate,Centralized
+LOAN-0889,Agriculture,441.93,0.88,366,110.85,55,No,19.55,9.84,26,48.73,Low,354.57,Rejected,Medium,Minimal,Decentralized
+LOAN-0890,Construction,294.26,2.79,662,47.75,94,Yes,59.89,15.32,26,3.47,High,200.94,Rejected,High,Severe,Decentralized
+LOAN-0891,Healthcare,293.98,0.21,629,88.16,80,No,70.75,-1.25,7,12.08,High,133.62,Approved,Low,Severe,Decentralized
+LOAN-0892,Construction,21.11,2.55,641,160.73,72,No,61.17,18.47,7,7.04,Medium,225.01,Rejected,High,Moderate,Centralized
+LOAN-0893,Agriculture,96.81,0.66,608,174.5,5,Yes,73.77,2.09,21,46.74,High,379.4,Rejected,Low,Severe,Centralized
+LOAN-0894,Agriculture,226.56,2.32,341,16.39,64,No,98.79,16.24,11,8.91,Low,41.64,Rejected,Medium,Severe,Community-driven
+LOAN-0895,Construction,22.16,0.48,381,5.69,74,No,86.86,17.66,10,27.6,Low,106.0,Rejected,High,Minimal,Community-driven
+LOAN-0896,Renewable Energy,390.61,0.5,415,58.93,70,Yes,90.62,4.23,30,27.0,High,237.95,Rejected,Low,Severe,Centralized
+LOAN-0897,Healthcare,322.55,2.19,571,100.0,79,No,5.75,-4.42,25,32.55,High,390.23,Rejected,Low,Severe,Community-driven
+LOAN-0898,Agriculture,123.72,1.36,779,38.73,1,Yes,33.67,23.64,36,17.65,Medium,477.66,Rejected,Low,Moderate,Centralized
+LOAN-0899,Construction,215.57,2.52,397,89.05,95,Yes,51.81,16.83,23,34.06,Low,431.36,Approved,High,Severe,Centralized
+LOAN-0900,Agriculture,121.33,1.67,466,138.59,11,No,56.22,22.92,28,27.85,Medium,239.43,Rejected,Low,Moderate,Community-driven
+LOAN-0901,Renewable Energy,435.57,0.84,323,18.54,95,No,61.84,7.55,26,16.42,High,53.04,Rejected,Medium,Severe,Centralized
+LOAN-0902,Technology,138.15,0.58,435,64.1,3,No,26.56,15.41,6,1.96,Medium,378.17,Rejected,Low,Moderate,Decentralized
+LOAN-0903,Construction,185.6,0.8,780,10.37,98,No,37.78,21.91,20,44.75,Medium,157.2,Rejected,High,Moderate,Centralized
+LOAN-0904,Renewable Energy,191.2,2.2,408,114.87,54,Yes,9.73,13.63,28,17.28,Medium,72.15,Rejected,Medium,Moderate,Centralized
+LOAN-0905,Technology,341.59,2.61,847,25.41,52,No,70.74,0.93,12,3.85,Medium,305.65,Rejected,Low,Moderate,Community-driven
+LOAN-0906,Agriculture,331.84,1.01,497,40.62,95,No,8.66,-0.2,7,9.27,Low,143.19,Rejected,Low,Severe,Decentralized
+LOAN-0907,Technology,224.35,2.34,762,12.16,51,No,62.82,5.01,30,26.28,Low,441.88,Rejected,Medium,Severe,Centralized
+LOAN-0908,Healthcare,346.16,0.94,757,194.39,1,No,70.72,2.55,23,9.37,High,481.51,Rejected,Low,Severe,Community-driven
+LOAN-0909,Agriculture,166.17,0.84,607,100.83,1,No,36.88,7.46,16,4.46,Low,291.26,Rejected,Low,Minimal,Community-driven
+LOAN-0910,Technology,306.07,0.91,769,125.83,69,Yes,21.34,0.19,16,28.27,High,399.46,Rejected,Low,Severe,Centralized
+LOAN-0911,Technology,45.69,2.64,835,54.53,42,Yes,52.43,13.26,20,41.75,High,334.61,Rejected,Low,Severe,Centralized
+LOAN-0912,Agriculture,213.81,0.58,590,102.84,20,Yes,7.46,20.99,18,42.24,High,208.73,Rejected,Low,Severe,Decentralized
+LOAN-0913,Construction,25.92,0.56,489,66.93,24,No,48.68,6.87,13,16.6,Low,117.01,Rejected,Low,Minimal,Centralized
+LOAN-0914,Agriculture,448.61,0.27,793,119.37,94,Yes,7.57,3.09,24,26.62,High,34.74,Rejected,Low,Severe,Community-driven
+LOAN-0915,Healthcare,295.72,0.62,378,135.24,9,Yes,48.31,17.71,30,11.35,Medium,255.99,Rejected,Low,Moderate,Centralized
+LOAN-0916,Technology,375.53,2.63,319,78.8,62,Yes,17.14,12.34,33,40.48,High,260.82,Rejected,Medium,Severe,Community-driven
+LOAN-0917,Renewable Energy,110.15,0.52,464,121.32,95,No,92.0,14.91,24,11.67,Low,424.14,Rejected,High,Minimal,Centralized
+LOAN-0918,Construction,384.64,2.43,302,140.34,53,No,12.36,-4.1,18,46.88,Low,259.76,Rejected,Low,Severe,Centralized
+LOAN-0919,Renewable Energy,23.96,2.81,648,16.8,84,No,24.55,4.03,36,30.05,High,472.57,Rejected,Low,Severe,Community-driven
+LOAN-0920,Technology,225.09,0.76,328,95.86,29,No,99.18,-3.93,17,12.3,Low,468.35,Approved,Low,Minimal,Decentralized
+LOAN-0921,Healthcare,49.75,1.69,510,159.34,48,No,12.02,24.33,8,23.8,High,477.07,Rejected,Low,Severe,Centralized
+LOAN-0922,Construction,28.46,3.0,805,136.65,5,Yes,62.59,8.75,15,9.83,Low,159.36,Rejected,Low,Severe,Community-driven
+LOAN-0923,Healthcare,324.41,1.6,552,85.61,85,Yes,24.6,9.29,24,17.19,Medium,207.14,Rejected,Medium,Moderate,Centralized
+LOAN-0924,Agriculture,241.06,0.14,407,67.87,4,No,57.74,24.21,24,48.28,Medium,204.87,Rejected,Low,Moderate,Decentralized
+LOAN-0925,Healthcare,84.94,1.92,840,101.23,48,No,14.99,9.69,23,8.03,Medium,202.14,Rejected,Low,Moderate,Decentralized
+LOAN-0926,Healthcare,166.39,0.56,471,125.79,80,Yes,94.96,8.26,24,27.05,Medium,126.69,Approved,Medium,Moderate,Decentralized
+LOAN-0927,Healthcare,464.78,1.86,706,139.94,76,No,95.32,-3.59,27,30.66,High,407.39,Rejected,Low,Severe,Decentralized
+LOAN-0928,Construction,200.27,1.34,516,77.5,77,Yes,17.79,18.55,6,18.28,Low,269.47,Rejected,High,Severe,Decentralized
+LOAN-0929,Technology,472.62,1.8,640,41.05,49,No,12.85,-3.34,34,33.54,Low,456.57,Rejected,Low,Severe,Decentralized
+LOAN-0930,Construction,428.71,0.89,529,115.87,51,Yes,39.42,-0.28,35,3.61,Low,203.88,Rejected,Low,Minimal,Centralized
+LOAN-0931,Agriculture,350.42,1.92,593,60.16,67,No,38.0,16.53,29,48.29,High,430.87,Approved,Medium,Severe,Community-driven
+LOAN-0932,Construction,259.15,1.17,340,93.98,63,No,28.41,23.5,7,38.93,High,371.37,Rejected,Medium,Severe,Decentralized
+LOAN-0933,Technology,431.07,1.32,803,59.12,46,Yes,75.02,8.63,26,15.89,Low,243.6,Rejected,Low,Severe,Community-driven
+LOAN-0934,Agriculture,423.54,2.79,304,128.88,57,Yes,70.75,1.97,14,29.12,Medium,175.89,Rejected,Low,Moderate,Decentralized
+LOAN-0935,Technology,491.9,2.99,378,5.74,91,No,75.96,4.19,24,17.8,Medium,380.77,Approved,Low,Moderate,Centralized
+LOAN-0936,Construction,225.55,1.78,573,6.93,61,Yes,81.07,1.42,26,28.39,High,124.9,Rejected,Low,Severe,Community-driven
+LOAN-0937,Technology,283.52,1.19,461,4.19,48,No,80.72,22.97,25,42.26,High,180.45,Rejected,Low,Severe,Decentralized
+LOAN-0938,Technology,19.28,1.64,394,29.4,34,No,82.59,-4.37,24,12.26,Low,374.89,Rejected,Low,Severe,Community-driven
+LOAN-0939,Healthcare,97.11,2.1,737,191.04,7,No,35.49,3.94,28,43.79,Low,14.09,Rejected,Low,Severe,Decentralized
+LOAN-0940,Technology,419.1,0.5,461,154.71,6,Yes,81.13,15.31,11,24.46,High,420.0,Rejected,Low,Severe,Decentralized
+LOAN-0941,Renewable Energy,24.13,1.01,585,102.22,57,No,18.1,4.89,27,32.28,High,108.51,Rejected,Low,Severe,Centralized
+LOAN-0942,Healthcare,493.99,1.13,840,61.59,50,Yes,98.3,-4.07,16,37.88,Low,298.57,Rejected,Low,Severe,Decentralized
+LOAN-0943,Technology,98.65,0.14,323,96.17,29,Yes,48.44,7.76,35,42.98,Medium,490.06,Rejected,Low,Moderate,Community-driven
+LOAN-0944,Construction,127.0,1.04,357,5.45,41,Yes,93.06,-0.49,11,49.04,Medium,398.1,Rejected,Low,Moderate,Centralized
+LOAN-0945,Construction,497.19,2.07,711,25.52,69,No,23.9,20.12,11,14.52,High,387.72,Rejected,Medium,Severe,Decentralized
+LOAN-0946,Renewable Energy,15.72,0.57,831,68.53,74,No,20.61,7.76,31,6.02,Low,179.59,Rejected,Medium,Minimal,Decentralized
+LOAN-0947,Construction,490.05,1.42,443,34.79,68,Yes,65.78,16.84,8,9.6,High,235.59,Rejected,Medium,Severe,Centralized
+LOAN-0948,Agriculture,182.43,1.86,639,174.87,17,No,44.18,-4.97,22,41.22,Low,416.63,Rejected,Low,Severe,Community-driven
+LOAN-0949,Construction,475.49,2.66,489,183.96,25,No,62.76,4.71,13,18.97,Low,244.21,Rejected,Low,Severe,Decentralized
+LOAN-0950,Construction,426.94,0.93,430,152.73,67,No,13.99,8.12,11,1.33,Medium,311.85,Rejected,Medium,Moderate,Community-driven
+LOAN-0951,Agriculture,254.69,2.08,550,145.15,47,Yes,12.09,22.73,6,12.44,Low,496.62,Rejected,Low,Severe,Decentralized
+LOAN-0952,Construction,277.63,2.15,682,33.46,32,Yes,15.93,10.35,30,39.45,Low,187.02,Rejected,Low,Severe,Decentralized
+LOAN-0953,Agriculture,206.59,2.32,804,172.26,35,Yes,22.49,1.78,27,10.04,Medium,350.22,Rejected,Low,Moderate,Community-driven
+LOAN-0954,Construction,474.86,2.37,825,5.67,31,Yes,98.5,-2.7,32,20.76,Medium,264.84,Rejected,Low,Moderate,Community-driven
+LOAN-0955,Technology,421.27,2.98,783,50.39,22,No,72.64,-3.91,10,38.34,Medium,134.61,Rejected,Low,Moderate,Decentralized
+LOAN-0956,Renewable Energy,110.47,1.18,408,11.91,70,Yes,37.84,4.09,17,40.12,Low,197.88,Rejected,Low,Severe,Centralized
+LOAN-0957,Technology,440.23,2.61,587,153.1,67,No,78.03,14.51,9,25.15,Low,193.49,Rejected,Medium,Severe,Centralized
+LOAN-0958,Technology,454.83,2.47,493,158.33,34,No,25.37,13.01,36,32.18,Medium,207.78,Rejected,Low,Moderate,Community-driven
+LOAN-0959,Construction,112.74,2.52,752,37.68,100,Yes,80.02,14.34,8,27.94,Low,376.04,Rejected,High,Severe,Community-driven
+LOAN-0960,Healthcare,272.14,1.85,465,140.28,37,No,74.3,10.42,26,10.71,High,63.23,Rejected,Low,Severe,Community-driven
+LOAN-0961,Renewable Energy,236.81,2.47,528,75.1,26,No,25.56,12.27,13,20.8,High,244.03,Rejected,Low,Severe,Centralized
+LOAN-0962,Agriculture,302.55,0.49,531,19.47,54,Yes,68.98,-1.33,6,33.69,High,414.16,Rejected,Low,Severe,Community-driven
+LOAN-0963,Renewable Energy,471.01,1.55,388,15.86,43,Yes,10.99,24.06,7,45.1,Medium,347.03,Rejected,Low,Moderate,Centralized
+LOAN-0964,Healthcare,403.85,1.75,643,1.12,35,Yes,86.89,20.33,15,48.46,Low,56.03,Rejected,Low,Severe,Community-driven
+LOAN-0965,Technology,396.52,1.02,682,3.32,77,Yes,49.82,-2.16,11,2.12,Low,133.0,Rejected,Low,Severe,Centralized
+LOAN-0966,Technology,119.07,1.95,346,3.99,44,No,86.87,-3.2,12,14.57,High,395.3,Rejected,Low,Severe,Centralized
+LOAN-0967,Renewable Energy,196.6,0.44,669,50.73,24,Yes,40.79,24.48,14,2.62,High,368.39,Rejected,Low,Severe,Community-driven
+LOAN-0968,Healthcare,344.74,1.97,819,121.76,30,Yes,17.72,8.38,24,27.35,High,107.93,Rejected,Low,Severe,Community-driven
+LOAN-0969,Healthcare,57.72,0.24,355,21.05,62,Yes,14.64,6.6,26,3.01,Medium,156.46,Rejected,Medium,Moderate,Centralized
+LOAN-0970,Agriculture,491.16,1.85,513,170.93,16,No,52.56,4.78,33,12.32,Low,115.22,Rejected,Low,Severe,Centralized
+LOAN-0971,Technology,18.24,1.7,430,106.07,34,No,81.45,4.7,35,3.82,Medium,401.82,Rejected,Low,Moderate,Community-driven
+LOAN-0972,Healthcare,98.64,0.72,554,53.53,20,Yes,69.84,20.46,20,41.64,Medium,44.54,Rejected,Low,Moderate,Community-driven
+LOAN-0973,Renewable Energy,209.4,2.59,350,99.15,33,Yes,80.98,19.12,15,49.33,High,72.41,Rejected,Low,Severe,Community-driven
+LOAN-0974,Construction,206.77,0.22,583,51.59,53,Yes,79.27,23.64,9,24.59,Low,348.19,Rejected,Medium,Minimal,Decentralized
+LOAN-0975,Renewable Energy,328.65,2.85,559,85.16,75,Yes,68.69,8.93,14,1.99,High,80.53,Rejected,Medium,Severe,Centralized
+LOAN-0976,Agriculture,291.85,0.2,335,89.9,11,No,23.21,-1.77,34,17.51,Medium,458.82,Rejected,Low,Moderate,Centralized
+LOAN-0977,Technology,426.27,2.22,830,176.35,70,No,22.22,18.12,23,9.4,High,414.15,Rejected,Medium,Severe,Community-driven
+LOAN-0978,Renewable Energy,162.12,1.36,544,166.35,60,No,32.74,2.29,33,19.67,Medium,267.31,Rejected,Low,Moderate,Centralized
+LOAN-0979,Construction,466.58,0.82,410,152.32,87,Yes,65.39,-0.65,7,43.04,Low,473.94,Approved,Low,Minimal,Community-driven
+LOAN-0980,Construction,362.95,1.19,324,170.12,66,Yes,90.13,21.32,17,28.17,Medium,31.94,Rejected,Medium,Moderate,Centralized
+LOAN-0981,Healthcare,462.12,1.73,798,135.99,38,Yes,31.62,16.98,11,39.37,Low,384.38,Rejected,Low,Severe,Decentralized
+LOAN-0982,Renewable Energy,434.04,0.98,416,43.49,52,Yes,51.45,6.5,21,6.67,Low,180.25,Rejected,Medium,Minimal,Centralized
+LOAN-0983,Agriculture,98.49,2.17,310,62.63,30,Yes,22.21,0.23,36,8.47,Low,335.14,Rejected,Low,Severe,Centralized
+LOAN-0984,Technology,343.88,1.47,491,101.66,12,Yes,70.56,16.27,12,25.7,High,240.35,Rejected,Low,Severe,Decentralized
+LOAN-0985,Healthcare,49.24,2.79,729,11.7,90,Yes,45.9,12.5,18,15.02,Medium,194.06,Rejected,High,Moderate,Community-driven
+LOAN-0986,Construction,316.79,0.96,677,199.07,90,No,34.07,1.47,20,27.6,Medium,56.65,Rejected,Low,Moderate,Centralized
+LOAN-0987,Healthcare,220.81,1.34,545,60.48,24,No,15.99,18.17,29,2.41,Low,328.61,Rejected,Low,Severe,Community-driven
+LOAN-0988,Agriculture,390.07,1.74,669,28.44,69,No,56.79,3.8,12,15.75,High,403.63,Approved,Low,Severe,Community-driven
+LOAN-0989,Renewable Energy,304.28,0.8,569,110.29,48,Yes,87.43,6.42,12,35.7,High,438.0,Rejected,Low,Severe,Centralized
+LOAN-0990,Agriculture,257.08,1.05,676,106.14,77,Yes,77.18,10.44,9,21.56,High,218.24,Rejected,High,Severe,Centralized
+LOAN-0991,Agriculture,251.0,2.3,325,178.88,4,No,70.24,-1.0,8,38.63,Medium,237.59,Rejected,Low,Moderate,Decentralized
+LOAN-0992,Renewable Energy,475.91,2.0,759,24.32,64,Yes,19.7,2.43,30,47.7,Low,422.43,Rejected,Low,Severe,Decentralized
+LOAN-0993,Healthcare,95.85,2.12,739,94.28,89,No,56.92,-2.92,17,16.5,Medium,453.24,Rejected,Low,Moderate,Decentralized
+LOAN-0994,Healthcare,57.7,1.15,819,168.08,9,Yes,97.44,6.46,27,47.96,High,292.44,Rejected,Low,Severe,Centralized
+LOAN-0995,Construction,156.88,0.71,756,120.07,24,No,36.32,21.25,9,42.52,High,51.7,Rejected,Low,Severe,Community-driven
+LOAN-0996,Renewable Energy,89.88,2.57,492,88.98,7,No,92.61,18.51,9,31.56,High,359.02,Rejected,Low,Severe,Decentralized
+LOAN-0997,Healthcare,259.18,2.35,458,184.32,18,Yes,71.56,14.86,7,29.74,Low,331.64,Rejected,Low,Severe,Community-driven
+LOAN-0998,Agriculture,51.79,1.18,579,4.03,50,Yes,6.93,9.11,13,22.49,Low,372.29,Approved,Low,Severe,Community-driven
+LOAN-0999,Technology,469.0,1.91,422,132.78,8,Yes,9.29,15.48,10,13.46,Medium,244.4,Rejected,Low,Moderate,Centralized
+LOAN-1000,Agriculture,491.53,2.12,703,47.95,42,Yes,73.41,13.54,33,8.87,Medium,99.9,Rejected,Low,Moderate,Centralized
